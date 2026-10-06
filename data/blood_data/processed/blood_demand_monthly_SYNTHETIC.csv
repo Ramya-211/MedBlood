@@ -1,0 +1,1537 @@
+blood_group,rh_type,blood_component,month_start,monthly_demand,units_issued,units_transfused,emergency_requests,routine_requests
+A,Negative,Plasma,2021-01-01,31,31,31,0,31
+A,Negative,Plasma,2021-02-01,28,28,28,0,28
+A,Negative,Plasma,2021-03-01,32,32,32,1,31
+A,Negative,Plasma,2021-04-01,35,35,35,2,33
+A,Negative,Plasma,2021-05-01,42,42,42,9,33
+A,Negative,Plasma,2021-06-01,43,43,43,11,32
+A,Negative,Plasma,2021-07-01,41,41,41,7,34
+A,Negative,Plasma,2021-08-01,36,36,36,4,32
+A,Negative,Plasma,2021-09-01,32,32,32,1,31
+A,Negative,Plasma,2021-10-01,31,31,31,0,31
+A,Negative,Plasma,2021-11-01,30,30,30,0,30
+A,Negative,Plasma,2021-12-01,31,31,31,0,31
+A,Negative,Plasma,2022-01-01,31,31,31,0,31
+A,Negative,Plasma,2022-02-01,28,28,28,0,28
+A,Negative,Plasma,2022-03-01,31,31,31,0,31
+A,Negative,Plasma,2022-04-01,33,33,33,3,30
+A,Negative,Plasma,2022-05-01,43,43,43,8,35
+A,Negative,Plasma,2022-06-01,49,49,49,15,34
+A,Negative,Plasma,2022-07-01,47,47,47,11,36
+A,Negative,Plasma,2022-08-01,34,34,34,3,31
+A,Negative,Plasma,2022-09-01,31,31,31,1,30
+A,Negative,Plasma,2022-10-01,31,31,31,0,31
+A,Negative,Plasma,2022-11-01,30,30,30,0,30
+A,Negative,Plasma,2022-12-01,31,31,31,0,31
+A,Negative,Plasma,2023-01-01,31,31,31,0,31
+A,Negative,Plasma,2023-02-01,28,28,28,0,28
+A,Negative,Plasma,2023-03-01,33,33,33,2,31
+A,Negative,Plasma,2023-04-01,30,30,30,0,30
+A,Negative,Plasma,2023-05-01,33,33,33,1,32
+A,Negative,Plasma,2023-06-01,30,30,30,0,30
+A,Negative,Plasma,2023-07-01,33,33,33,1,32
+A,Negative,Plasma,2023-08-01,31,31,31,0,31
+A,Negative,Plasma,2023-09-01,32,32,32,1,31
+A,Negative,Plasma,2023-10-01,31,31,31,0,31
+A,Negative,Plasma,2023-11-01,30,30,30,0,30
+A,Negative,Plasma,2023-12-01,31,31,31,0,31
+A,Negative,Plasma,2024-01-01,31,31,31,1,30
+A,Negative,Plasma,2024-02-01,29,29,29,0,29
+A,Negative,Plasma,2024-03-01,31,31,31,0,31
+A,Negative,Plasma,2024-04-01,30,30,30,0,30
+A,Negative,Plasma,2024-05-01,31,31,31,0,31
+A,Negative,Plasma,2024-06-01,30,30,30,0,30
+A,Negative,Plasma,2024-07-01,31,31,31,0,31
+A,Negative,Plasma,2024-08-01,31,31,31,0,31
+A,Negative,Plasma,2024-09-01,30,30,30,0,30
+A,Negative,Plasma,2024-10-01,30,30,30,0,30
+A,Negative,Plasma,2024-11-01,29,29,29,0,29
+A,Negative,Plasma,2024-12-01,30,30,30,0,30
+A,Negative,Platelets,2021-01-01,34,34,34,2,32
+A,Negative,Platelets,2021-02-01,35,35,35,4,31
+A,Negative,Platelets,2021-03-01,50,50,50,15,35
+A,Negative,Platelets,2021-04-01,49,49,49,14,35
+A,Negative,Platelets,2021-05-01,52,52,52,19,33
+A,Negative,Platelets,2021-06-01,46,46,46,10,36
+A,Negative,Platelets,2021-07-01,35,35,35,3,32
+A,Negative,Platelets,2021-08-01,32,32,32,1,31
+A,Negative,Platelets,2021-09-01,31,31,31,0,31
+A,Negative,Platelets,2021-10-01,31,31,31,0,31
+A,Negative,Platelets,2021-11-01,30,30,30,0,30
+A,Negative,Platelets,2021-12-01,31,31,31,0,31
+A,Negative,Platelets,2022-01-01,31,31,31,0,31
+A,Negative,Platelets,2022-02-01,31,31,31,2,29
+A,Negative,Platelets,2022-03-01,32,32,32,1,31
+A,Negative,Platelets,2022-04-01,30,30,30,0,30
+A,Negative,Platelets,2022-05-01,31,31,31,0,31
+A,Negative,Platelets,2022-06-01,31,31,31,0,31
+A,Negative,Platelets,2022-07-01,31,31,31,0,31
+A,Negative,Platelets,2022-08-01,31,31,31,0,31
+A,Negative,Platelets,2022-09-01,30,30,30,0,30
+A,Negative,Platelets,2022-10-01,31,31,31,0,31
+A,Negative,Platelets,2022-11-01,30,30,30,0,30
+A,Negative,Platelets,2022-12-01,31,31,31,0,31
+A,Negative,Platelets,2023-01-01,31,31,31,0,31
+A,Negative,Platelets,2023-02-01,28,28,28,0,28
+A,Negative,Platelets,2023-03-01,31,31,31,1,30
+A,Negative,Platelets,2023-04-01,31,31,31,0,31
+A,Negative,Platelets,2023-05-01,34,34,34,2,32
+A,Negative,Platelets,2023-06-01,33,33,33,2,31
+A,Negative,Platelets,2023-07-01,34,34,34,3,31
+A,Negative,Platelets,2023-08-01,31,31,31,0,31
+A,Negative,Platelets,2023-09-01,30,30,30,0,30
+A,Negative,Platelets,2023-10-01,31,31,31,0,31
+A,Negative,Platelets,2023-11-01,30,30,30,0,30
+A,Negative,Platelets,2023-12-01,31,31,31,0,31
+A,Negative,Platelets,2024-01-01,33,33,33,1,32
+A,Negative,Platelets,2024-02-01,29,29,29,0,29
+A,Negative,Platelets,2024-03-01,31,31,31,0,31
+A,Negative,Platelets,2024-04-01,30,30,30,0,30
+A,Negative,Platelets,2024-05-01,34,34,34,3,31
+A,Negative,Platelets,2024-06-01,32,32,32,2,30
+A,Negative,Platelets,2024-07-01,31,31,31,0,31
+A,Negative,Platelets,2024-08-01,31,31,31,0,31
+A,Negative,Platelets,2024-09-01,30,30,30,1,29
+A,Negative,Platelets,2024-10-01,31,31,31,0,31
+A,Negative,Platelets,2024-11-01,30,30,30,0,30
+A,Negative,Platelets,2024-12-01,31,31,31,0,31
+A,Negative,RBC,2021-01-01,34,34,34,1,33
+A,Negative,RBC,2021-02-01,34,34,34,4,30
+A,Negative,RBC,2021-03-01,56,56,56,20,36
+A,Negative,RBC,2021-04-01,56,56,56,18,38
+A,Negative,RBC,2021-05-01,56,56,56,17,39
+A,Negative,RBC,2021-06-01,59,59,59,20,39
+A,Negative,RBC,2021-07-01,60,60,60,22,38
+A,Negative,RBC,2021-08-01,54,54,54,15,39
+A,Negative,RBC,2021-09-01,40,40,40,5,35
+A,Negative,RBC,2021-10-01,40,40,40,8,32
+A,Negative,RBC,2021-11-01,40,40,40,9,31
+A,Negative,RBC,2021-12-01,33,33,33,2,31
+A,Negative,RBC,2022-01-01,41,41,41,7,34
+A,Negative,RBC,2022-02-01,44,44,44,13,31
+A,Negative,RBC,2022-03-01,58,58,58,16,42
+A,Negative,RBC,2022-04-01,58,58,58,20,38
+A,Negative,RBC,2022-05-01,61,61,61,18,43
+A,Negative,RBC,2022-06-01,60,60,60,26,34
+A,Negative,RBC,2022-07-01,53,53,53,14,39
+A,Negative,RBC,2022-08-01,49,49,49,13,36
+A,Negative,RBC,2022-09-01,35,35,35,4,31
+A,Negative,RBC,2022-10-01,31,31,31,0,31
+A,Negative,RBC,2022-11-01,30,30,30,0,30
+A,Negative,RBC,2022-12-01,31,31,31,0,31
+A,Negative,RBC,2023-01-01,34,34,34,2,32
+A,Negative,RBC,2023-02-01,37,37,37,4,33
+A,Negative,RBC,2023-03-01,53,53,53,17,36
+A,Negative,RBC,2023-04-01,57,56,56,19,38
+A,Negative,RBC,2023-05-01,62,62,62,24,38
+A,Negative,RBC,2023-06-01,60,60,60,26,34
+A,Negative,RBC,2023-07-01,62,62,62,22,40
+A,Negative,RBC,2023-08-01,55,55,55,19,36
+A,Negative,RBC,2023-09-01,35,35,35,5,30
+A,Negative,RBC,2023-10-01,31,31,31,0,31
+A,Negative,RBC,2023-11-01,30,30,30,0,30
+A,Negative,RBC,2023-12-01,31,31,31,0,31
+A,Negative,RBC,2024-01-01,33,33,33,1,32
+A,Negative,RBC,2024-02-01,32,32,32,3,29
+A,Negative,RBC,2024-03-01,38,38,38,5,33
+A,Negative,RBC,2024-04-01,40,40,40,10,30
+A,Negative,RBC,2024-05-01,49,49,49,13,36
+A,Negative,RBC,2024-06-01,49,49,49,15,34
+A,Negative,RBC,2024-07-01,48,48,48,14,34
+A,Negative,RBC,2024-08-01,41,41,41,8,33
+A,Negative,RBC,2024-09-01,33,33,33,2,31
+A,Negative,RBC,2024-10-01,31,31,31,0,31
+A,Negative,RBC,2024-11-01,33,33,33,2,31
+A,Negative,RBC,2024-12-01,31,31,31,0,31
+A,Negative,Whole Blood,2021-01-01,32,32,32,0,32
+A,Negative,Whole Blood,2021-02-01,28,28,28,0,28
+A,Negative,Whole Blood,2021-03-01,31,31,31,0,31
+A,Negative,Whole Blood,2021-04-01,31,31,31,1,30
+A,Negative,Whole Blood,2021-05-01,37,37,37,4,33
+A,Negative,Whole Blood,2021-06-01,44,44,44,7,37
+A,Negative,Whole Blood,2021-07-01,32,32,32,1,31
+A,Negative,Whole Blood,2021-08-01,31,31,31,0,31
+A,Negative,Whole Blood,2021-09-01,31,31,31,1,30
+A,Negative,Whole Blood,2021-10-01,31,31,31,0,31
+A,Negative,Whole Blood,2021-11-01,30,30,30,0,30
+A,Negative,Whole Blood,2021-12-01,31,31,31,0,31
+A,Negative,Whole Blood,2022-01-01,31,31,31,0,31
+A,Negative,Whole Blood,2022-02-01,28,28,28,0,28
+A,Negative,Whole Blood,2022-03-01,31,31,31,1,30
+A,Negative,Whole Blood,2022-04-01,32,32,32,1,31
+A,Negative,Whole Blood,2022-05-01,31,31,31,0,31
+A,Negative,Whole Blood,2022-06-01,31,31,31,1,30
+A,Negative,Whole Blood,2022-07-01,31,31,31,0,31
+A,Negative,Whole Blood,2022-08-01,31,31,31,0,31
+A,Negative,Whole Blood,2022-09-01,31,31,31,1,30
+A,Negative,Whole Blood,2022-10-01,31,31,31,1,30
+A,Negative,Whole Blood,2022-11-01,31,31,31,1,30
+A,Negative,Whole Blood,2022-12-01,31,31,31,0,31
+A,Negative,Whole Blood,2023-01-01,31,31,31,0,31
+A,Negative,Whole Blood,2023-02-01,28,28,28,0,28
+A,Negative,Whole Blood,2023-03-01,34,34,34,3,31
+A,Negative,Whole Blood,2023-04-01,38,38,38,5,33
+A,Negative,Whole Blood,2023-05-01,46,46,46,10,36
+A,Negative,Whole Blood,2023-06-01,45,45,45,12,33
+A,Negative,Whole Blood,2023-07-01,39,39,39,8,31
+A,Negative,Whole Blood,2023-08-01,35,35,35,2,33
+A,Negative,Whole Blood,2023-09-01,30,30,30,0,30
+A,Negative,Whole Blood,2023-10-01,31,31,31,0,31
+A,Negative,Whole Blood,2023-11-01,30,30,30,0,30
+A,Negative,Whole Blood,2023-12-01,31,31,31,0,31
+A,Negative,Whole Blood,2024-01-01,31,31,31,0,31
+A,Negative,Whole Blood,2024-02-01,29,29,29,1,28
+A,Negative,Whole Blood,2024-03-01,31,31,31,0,31
+A,Negative,Whole Blood,2024-04-01,31,31,31,0,31
+A,Negative,Whole Blood,2024-05-01,37,37,37,6,31
+A,Negative,Whole Blood,2024-06-01,35,35,35,2,33
+A,Negative,Whole Blood,2024-07-01,32,32,32,1,31
+A,Negative,Whole Blood,2024-08-01,32,32,32,1,31
+A,Negative,Whole Blood,2024-09-01,30,30,30,0,30
+A,Negative,Whole Blood,2024-10-01,31,31,31,0,31
+A,Negative,Whole Blood,2024-11-01,30,30,30,0,30
+A,Negative,Whole Blood,2024-12-01,31,31,31,0,31
+A,Positive,Plasma,2021-01-01,105,103,103,32,73
+A,Positive,Plasma,2021-02-01,139,131,127,39,100
+A,Positive,Plasma,2021-03-01,188,174,170,56,132
+A,Positive,Plasma,2021-04-01,199,183,177,58,141
+A,Positive,Plasma,2021-05-01,233,217,207,65,168
+A,Positive,Plasma,2021-06-01,244,225,213,70,174
+A,Positive,Plasma,2021-07-01,222,206,197,68,154
+A,Positive,Plasma,2021-08-01,201,183,175,61,140
+A,Positive,Plasma,2021-09-01,180,167,161,56,124
+A,Positive,Plasma,2021-10-01,172,162,157,54,118
+A,Positive,Plasma,2021-11-01,160,153,148,47,113
+A,Positive,Plasma,2021-12-01,180,165,162,54,126
+A,Positive,Plasma,2022-01-01,204,188,181,60,144
+A,Positive,Plasma,2022-02-01,218,205,198,67,151
+A,Positive,Plasma,2022-03-01,273,249,234,92,181
+A,Positive,Plasma,2022-04-01,297,276,261,88,209
+A,Positive,Plasma,2022-05-01,310,293,276,93,217
+A,Positive,Plasma,2022-06-01,307,284,270,93,214
+A,Positive,Plasma,2022-07-01,292,275,263,85,207
+A,Positive,Plasma,2022-08-01,246,227,219,82,164
+A,Positive,Plasma,2022-09-01,224,211,206,67,157
+A,Positive,Plasma,2022-10-01,201,187,177,63,138
+A,Positive,Plasma,2022-11-01,175,164,159,54,121
+A,Positive,Plasma,2022-12-01,200,188,183,61,139
+A,Positive,Plasma,2023-01-01,213,199,192,62,151
+A,Positive,Plasma,2023-02-01,192,181,171,60,132
+A,Positive,Plasma,2023-03-01,241,227,215,78,163
+A,Positive,Plasma,2023-04-01,270,250,235,79,191
+A,Positive,Plasma,2023-05-01,312,293,277,101,211
+A,Positive,Plasma,2023-06-01,315,294,277,93,222
+A,Positive,Plasma,2023-07-01,311,292,275,94,217
+A,Positive,Plasma,2023-08-01,288,265,252,88,200
+A,Positive,Plasma,2023-09-01,259,240,225,71,188
+A,Positive,Plasma,2023-10-01,251,233,225,70,181
+A,Positive,Plasma,2023-11-01,256,239,230,79,177
+A,Positive,Plasma,2023-12-01,265,242,228,82,183
+A,Positive,Plasma,2024-01-01,302,286,272,85,217
+A,Positive,Plasma,2024-02-01,294,270,257,89,205
+A,Positive,Plasma,2024-03-01,338,312,294,106,232
+A,Positive,Plasma,2024-04-01,360,335,317,112,248
+A,Positive,Plasma,2024-05-01,396,365,348,123,273
+A,Positive,Plasma,2024-06-01,380,355,343,119,261
+A,Positive,Plasma,2024-07-01,401,367,351,120,281
+A,Positive,Plasma,2024-08-01,385,359,345,119,266
+A,Positive,Plasma,2024-09-01,355,332,310,105,250
+A,Positive,Plasma,2024-10-01,359,329,313,108,251
+A,Positive,Plasma,2024-11-01,340,309,290,110,230
+A,Positive,Plasma,2024-12-01,354,328,310,109,245
+A,Positive,Platelets,2021-01-01,111,107,106,32,79
+A,Positive,Platelets,2021-02-01,113,107,107,34,79
+A,Positive,Platelets,2021-03-01,149,143,142,48,101
+A,Positive,Platelets,2021-04-01,157,147,145,51,106
+A,Positive,Platelets,2021-05-01,187,176,172,58,129
+A,Positive,Platelets,2021-06-01,190,178,170,56,134
+A,Positive,Platelets,2021-07-01,173,164,158,50,123
+A,Positive,Platelets,2021-08-01,163,156,154,49,114
+A,Positive,Platelets,2021-09-01,153,145,143,47,106
+A,Positive,Platelets,2021-10-01,133,128,127,39,94
+A,Positive,Platelets,2021-11-01,123,120,120,36,87
+A,Positive,Platelets,2021-12-01,131,123,122,42,89
+A,Positive,Platelets,2022-01-01,151,141,141,43,108
+A,Positive,Platelets,2022-02-01,177,163,156,51,126
+A,Positive,Platelets,2022-03-01,206,193,185,61,145
+A,Positive,Platelets,2022-04-01,231,214,206,73,158
+A,Positive,Platelets,2022-05-01,246,228,217,82,164
+A,Positive,Platelets,2022-06-01,223,208,202,69,154
+A,Positive,Platelets,2022-07-01,214,199,193,61,153
+A,Positive,Platelets,2022-08-01,203,196,185,54,149
+A,Positive,Platelets,2022-09-01,194,187,181,56,138
+A,Positive,Platelets,2022-10-01,180,167,160,56,124
+A,Positive,Platelets,2022-11-01,178,168,163,50,128
+A,Positive,Platelets,2022-12-01,184,174,170,55,129
+A,Positive,Platelets,2023-01-01,219,203,195,62,157
+A,Positive,Platelets,2023-02-01,221,205,196,64,157
+A,Positive,Platelets,2023-03-01,284,266,260,88,196
+A,Positive,Platelets,2023-04-01,308,291,278,91,217
+A,Positive,Platelets,2023-05-01,361,342,321,105,256
+A,Positive,Platelets,2023-06-01,352,326,308,98,254
+A,Positive,Platelets,2023-07-01,363,340,315,108,255
+A,Positive,Platelets,2023-08-01,346,326,308,102,244
+A,Positive,Platelets,2023-09-01,321,304,294,98,223
+A,Positive,Platelets,2023-10-01,322,297,281,103,219
+A,Positive,Platelets,2023-11-01,319,299,283,85,234
+A,Positive,Platelets,2023-12-01,317,295,284,103,214
+A,Positive,Platelets,2024-01-01,339,320,306,106,233
+A,Positive,Platelets,2024-02-01,345,318,300,109,236
+A,Positive,Platelets,2024-03-01,397,365,347,116,281
+A,Positive,Platelets,2024-04-01,441,413,391,133,308
+A,Positive,Platelets,2024-05-01,450,411,389,141,309
+A,Positive,Platelets,2024-06-01,422,392,376,133,289
+A,Positive,Platelets,2024-07-01,443,413,388,138,305
+A,Positive,Platelets,2024-08-01,405,382,365,125,280
+A,Positive,Platelets,2024-09-01,369,338,320,115,254
+A,Positive,Platelets,2024-10-01,366,338,320,104,262
+A,Positive,Platelets,2024-11-01,348,327,313,111,237
+A,Positive,Platelets,2024-12-01,385,358,341,117,268
+A,Positive,RBC,2021-01-01,742,693,659,226,516
+A,Positive,RBC,2021-02-01,718,662,627,214,504
+A,Positive,RBC,2021-03-01,842,781,737,234,608
+A,Positive,RBC,2021-04-01,899,826,785,266,633
+A,Positive,RBC,2021-05-01,967,902,850,287,680
+A,Positive,RBC,2021-06-01,916,861,808,266,650
+A,Positive,RBC,2021-07-01,902,833,785,287,615
+A,Positive,RBC,2021-08-01,811,762,724,250,561
+A,Positive,RBC,2021-09-01,787,720,692,228,559
+A,Positive,RBC,2021-10-01,782,722,686,226,556
+A,Positive,RBC,2021-11-01,677,629,596,207,470
+A,Positive,RBC,2021-12-01,660,609,583,208,452
+A,Positive,RBC,2022-01-01,708,657,617,217,491
+A,Positive,RBC,2022-02-01,729,671,641,212,517
+A,Positive,RBC,2022-03-01,814,739,701,252,562
+A,Positive,RBC,2022-04-01,835,769,735,218,617
+A,Positive,RBC,2022-05-01,853,787,744,267,586
+A,Positive,RBC,2022-06-01,784,727,694,230,554
+A,Positive,RBC,2022-07-01,729,678,651,210,519
+A,Positive,RBC,2022-08-01,670,628,601,196,474
+A,Positive,RBC,2022-09-01,618,566,534,187,431
+A,Positive,RBC,2022-10-01,573,528,502,170,403
+A,Positive,RBC,2022-11-01,503,466,444,157,346
+A,Positive,RBC,2022-12-01,504,463,441,167,337
+A,Positive,RBC,2023-01-01,527,491,473,166,361
+A,Positive,RBC,2023-02-01,512,471,444,160,352
+A,Positive,RBC,2023-03-01,621,579,551,193,428
+A,Positive,RBC,2023-04-01,702,658,624,215,487
+A,Positive,RBC,2023-05-01,801,753,711,225,576
+A,Positive,RBC,2023-06-01,801,746,698,245,556
+A,Positive,RBC,2023-07-01,827,766,723,232,595
+A,Positive,RBC,2023-08-01,818,756,709,234,584
+A,Positive,RBC,2023-09-01,686,636,605,201,485
+A,Positive,RBC,2023-10-01,658,608,570,205,453
+A,Positive,RBC,2023-11-01,535,502,477,150,385
+A,Positive,RBC,2023-12-01,517,477,450,145,372
+A,Positive,RBC,2024-01-01,549,511,484,154,395
+A,Positive,RBC,2024-02-01,574,534,516,165,409
+A,Positive,RBC,2024-03-01,673,619,590,199,474
+A,Positive,RBC,2024-04-01,764,690,640,221,543
+A,Positive,RBC,2024-05-01,798,734,700,251,547
+A,Positive,RBC,2024-06-01,745,699,660,250,495
+A,Positive,RBC,2024-07-01,726,668,640,226,500
+A,Positive,RBC,2024-08-01,637,588,556,191,446
+A,Positive,RBC,2024-09-01,552,516,498,164,388
+A,Positive,RBC,2024-10-01,573,529,504,161,412
+A,Positive,RBC,2024-11-01,460,433,409,144,316
+A,Positive,RBC,2024-12-01,475,441,423,136,339
+A,Positive,Whole Blood,2021-01-01,673,625,606,201,472
+A,Positive,Whole Blood,2021-02-01,631,583,560,207,424
+A,Positive,Whole Blood,2021-03-01,715,670,628,210,505
+A,Positive,Whole Blood,2021-04-01,685,629,597,211,474
+A,Positive,Whole Blood,2021-05-01,706,658,617,208,498
+A,Positive,Whole Blood,2021-06-01,705,660,629,223,482
+A,Positive,Whole Blood,2021-07-01,722,680,643,232,490
+A,Positive,Whole Blood,2021-08-01,630,575,544,187,443
+A,Positive,Whole Blood,2021-09-01,544,506,477,161,383
+A,Positive,Whole Blood,2021-10-01,517,477,452,156,361
+A,Positive,Whole Blood,2021-11-01,471,438,411,136,335
+A,Positive,Whole Blood,2021-12-01,455,425,404,141,314
+A,Positive,Whole Blood,2022-01-01,475,436,415,142,333
+A,Positive,Whole Blood,2022-02-01,454,421,401,128,326
+A,Positive,Whole Blood,2022-03-01,538,488,463,148,390
+A,Positive,Whole Blood,2022-04-01,509,468,440,154,355
+A,Positive,Whole Blood,2022-05-01,484,450,433,149,335
+A,Positive,Whole Blood,2022-06-01,471,443,421,145,326
+A,Positive,Whole Blood,2022-07-01,469,430,409,145,324
+A,Positive,Whole Blood,2022-08-01,437,402,385,129,308
+A,Positive,Whole Blood,2022-09-01,352,323,301,107,245
+A,Positive,Whole Blood,2022-10-01,333,307,295,109,224
+A,Positive,Whole Blood,2022-11-01,332,309,290,101,231
+A,Positive,Whole Blood,2022-12-01,352,329,314,108,244
+A,Positive,Whole Blood,2023-01-01,388,355,335,111,277
+A,Positive,Whole Blood,2023-02-01,383,356,333,125,258
+A,Positive,Whole Blood,2023-03-01,435,399,376,126,309
+A,Positive,Whole Blood,2023-04-01,481,455,433,147,334
+A,Positive,Whole Blood,2023-05-01,569,525,498,169,400
+A,Positive,Whole Blood,2023-06-01,594,563,540,182,412
+A,Positive,Whole Blood,2023-07-01,579,545,517,163,416
+A,Positive,Whole Blood,2023-08-01,480,452,426,129,351
+A,Positive,Whole Blood,2023-09-01,430,401,381,133,297
+A,Positive,Whole Blood,2023-10-01,371,347,324,108,263
+A,Positive,Whole Blood,2023-11-01,391,366,344,116,275
+A,Positive,Whole Blood,2023-12-01,422,394,375,130,292
+A,Positive,Whole Blood,2024-01-01,487,444,422,148,339
+A,Positive,Whole Blood,2024-02-01,540,502,471,154,386
+A,Positive,Whole Blood,2024-03-01,587,547,525,182,405
+A,Positive,Whole Blood,2024-04-01,651,615,589,201,450
+A,Positive,Whole Blood,2024-05-01,667,612,584,195,472
+A,Positive,Whole Blood,2024-06-01,631,585,552,197,434
+A,Positive,Whole Blood,2024-07-01,626,581,557,204,422
+A,Positive,Whole Blood,2024-08-01,616,576,551,182,434
+A,Positive,Whole Blood,2024-09-01,577,538,505,173,404
+A,Positive,Whole Blood,2024-10-01,562,527,503,170,392
+A,Positive,Whole Blood,2024-11-01,532,492,472,149,383
+A,Positive,Whole Blood,2024-12-01,530,501,471,150,380
+AB,Negative,Plasma,2021-01-01,11,11,11,0,11
+AB,Negative,Plasma,2021-02-01,22,22,22,0,22
+AB,Negative,Plasma,2021-03-01,30,30,30,0,30
+AB,Negative,Plasma,2021-04-01,30,30,30,0,30
+AB,Negative,Plasma,2021-05-01,31,31,31,0,31
+AB,Negative,Plasma,2021-06-01,30,30,30,1,29
+AB,Negative,Plasma,2021-07-01,31,31,31,1,30
+AB,Negative,Plasma,2021-08-01,31,31,31,1,30
+AB,Negative,Plasma,2021-09-01,31,31,31,1,30
+AB,Negative,Plasma,2021-10-01,31,31,31,0,31
+AB,Negative,Plasma,2021-11-01,30,30,30,0,30
+AB,Negative,Plasma,2021-12-01,30,30,30,1,29
+AB,Negative,Plasma,2022-01-01,31,31,31,0,31
+AB,Negative,Plasma,2022-02-01,28,28,28,0,28
+AB,Negative,Plasma,2022-03-01,32,32,32,1,31
+AB,Negative,Plasma,2022-04-01,32,32,32,1,31
+AB,Negative,Plasma,2022-05-01,35,35,35,3,32
+AB,Negative,Plasma,2022-06-01,30,30,30,0,30
+AB,Negative,Plasma,2022-07-01,31,31,31,0,31
+AB,Negative,Plasma,2022-08-01,31,31,31,0,31
+AB,Negative,Plasma,2022-09-01,30,30,30,0,30
+AB,Negative,Plasma,2022-10-01,31,31,31,0,31
+AB,Negative,Plasma,2022-11-01,30,30,30,1,29
+AB,Negative,Plasma,2022-12-01,31,31,31,0,31
+AB,Negative,Plasma,2023-01-01,31,31,31,0,31
+AB,Negative,Plasma,2023-02-01,28,28,28,0,28
+AB,Negative,Plasma,2023-03-01,32,32,32,0,32
+AB,Negative,Plasma,2023-04-01,40,40,40,7,33
+AB,Negative,Plasma,2023-05-01,50,50,50,14,36
+AB,Negative,Plasma,2023-06-01,47,47,47,11,36
+AB,Negative,Plasma,2023-07-01,41,41,41,7,34
+AB,Negative,Plasma,2023-08-01,31,31,31,0,31
+AB,Negative,Plasma,2023-09-01,30,30,30,0,30
+AB,Negative,Plasma,2023-10-01,31,31,31,0,31
+AB,Negative,Plasma,2023-11-01,30,30,30,0,30
+AB,Negative,Plasma,2023-12-01,31,31,31,0,31
+AB,Negative,Plasma,2024-01-01,33,33,33,1,32
+AB,Negative,Plasma,2024-02-01,29,29,29,0,29
+AB,Negative,Plasma,2024-03-01,32,32,32,1,31
+AB,Negative,Plasma,2024-04-01,32,32,32,1,31
+AB,Negative,Plasma,2024-05-01,46,46,46,11,35
+AB,Negative,Plasma,2024-06-01,55,55,55,19,36
+AB,Negative,Plasma,2024-07-01,57,57,57,18,39
+AB,Negative,Plasma,2024-08-01,55,55,55,18,37
+AB,Negative,Plasma,2024-09-01,50,50,50,13,37
+AB,Negative,Plasma,2024-10-01,44,44,44,12,32
+AB,Negative,Plasma,2024-11-01,34,34,34,4,30
+AB,Negative,Plasma,2024-12-01,46,46,46,13,33
+AB,Negative,Platelets,2021-01-01,31,31,31,0,31
+AB,Negative,Platelets,2021-02-01,28,28,28,0,28
+AB,Negative,Platelets,2021-03-01,31,31,31,0,31
+AB,Negative,Platelets,2021-04-01,30,30,30,0,30
+AB,Negative,Platelets,2021-05-01,31,31,31,1,30
+AB,Negative,Platelets,2021-06-01,31,31,31,0,31
+AB,Negative,Platelets,2021-07-01,31,31,31,0,31
+AB,Negative,Platelets,2021-08-01,31,31,31,0,31
+AB,Negative,Platelets,2021-09-01,29,29,29,0,29
+AB,Negative,Platelets,2021-10-01,31,31,31,0,31
+AB,Negative,Platelets,2021-11-01,30,30,30,0,30
+AB,Negative,Platelets,2021-12-01,31,31,31,1,30
+AB,Negative,Platelets,2022-01-01,31,31,31,0,31
+AB,Negative,Platelets,2022-02-01,28,28,28,0,28
+AB,Negative,Platelets,2022-03-01,31,31,31,0,31
+AB,Negative,Platelets,2022-04-01,30,30,30,0,30
+AB,Negative,Platelets,2022-05-01,32,32,32,1,31
+AB,Negative,Platelets,2022-06-01,30,30,30,1,29
+AB,Negative,Platelets,2022-07-01,32,32,32,1,31
+AB,Negative,Platelets,2022-08-01,31,31,31,0,31
+AB,Negative,Platelets,2022-09-01,30,30,30,0,30
+AB,Negative,Platelets,2022-10-01,31,31,31,0,31
+AB,Negative,Platelets,2022-11-01,30,30,30,0,30
+AB,Negative,Platelets,2022-12-01,31,31,31,0,31
+AB,Negative,Platelets,2023-01-01,31,31,31,0,31
+AB,Negative,Platelets,2023-02-01,29,29,29,1,28
+AB,Negative,Platelets,2023-03-01,31,31,31,0,31
+AB,Negative,Platelets,2023-04-01,31,31,31,1,30
+AB,Negative,Platelets,2023-05-01,31,31,31,0,31
+AB,Negative,Platelets,2023-06-01,31,31,31,1,30
+AB,Negative,Platelets,2023-07-01,32,32,32,1,31
+AB,Negative,Platelets,2023-08-01,31,31,31,0,31
+AB,Negative,Platelets,2023-09-01,32,32,32,1,31
+AB,Negative,Platelets,2023-10-01,33,33,33,1,32
+AB,Negative,Platelets,2023-11-01,30,30,30,1,29
+AB,Negative,Platelets,2023-12-01,31,31,31,0,31
+AB,Negative,Platelets,2024-01-01,31,31,31,0,31
+AB,Negative,Platelets,2024-02-01,32,32,32,1,31
+AB,Negative,Platelets,2024-03-01,37,37,37,4,33
+AB,Negative,Platelets,2024-04-01,53,53,53,16,37
+AB,Negative,Platelets,2024-05-01,58,58,58,21,37
+AB,Negative,Platelets,2024-06-01,53,53,53,15,38
+AB,Negative,Platelets,2024-07-01,56,56,56,16,40
+AB,Negative,Platelets,2024-08-01,43,43,43,10,33
+AB,Negative,Platelets,2024-09-01,30,30,30,0,30
+AB,Negative,Platelets,2024-10-01,31,31,31,0,31
+AB,Negative,Platelets,2024-11-01,30,30,30,0,30
+AB,Negative,Platelets,2024-12-01,31,31,31,0,31
+AB,Negative,RBC,2021-01-01,31,31,31,0,31
+AB,Negative,RBC,2021-02-01,30,30,30,1,29
+AB,Negative,RBC,2021-03-01,31,31,31,0,31
+AB,Negative,RBC,2021-04-01,32,32,32,1,31
+AB,Negative,RBC,2021-05-01,38,38,38,5,33
+AB,Negative,RBC,2021-06-01,39,39,39,4,35
+AB,Negative,RBC,2021-07-01,33,33,33,1,32
+AB,Negative,RBC,2021-08-01,31,31,31,0,31
+AB,Negative,RBC,2021-09-01,30,30,30,0,30
+AB,Negative,RBC,2021-10-01,31,31,31,0,31
+AB,Negative,RBC,2021-11-01,30,30,30,0,30
+AB,Negative,RBC,2021-12-01,31,31,31,0,31
+AB,Negative,RBC,2022-01-01,30,30,30,0,30
+AB,Negative,RBC,2022-02-01,28,28,28,0,28
+AB,Negative,RBC,2022-03-01,32,32,32,1,31
+AB,Negative,RBC,2022-04-01,30,30,30,0,30
+AB,Negative,RBC,2022-05-01,31,31,31,0,31
+AB,Negative,RBC,2022-06-01,30,30,30,0,30
+AB,Negative,RBC,2022-07-01,31,31,31,0,31
+AB,Negative,RBC,2022-08-01,31,31,31,0,31
+AB,Negative,RBC,2022-09-01,30,30,30,0,30
+AB,Negative,RBC,2022-10-01,31,31,31,1,30
+AB,Negative,RBC,2022-11-01,30,30,30,0,30
+AB,Negative,RBC,2022-12-01,31,31,31,0,31
+AB,Negative,RBC,2023-01-01,31,31,31,0,31
+AB,Negative,RBC,2023-02-01,28,28,28,0,28
+AB,Negative,RBC,2023-03-01,31,31,31,0,31
+AB,Negative,RBC,2023-04-01,30,30,30,0,30
+AB,Negative,RBC,2023-05-01,35,35,35,3,32
+AB,Negative,RBC,2023-06-01,38,38,38,8,30
+AB,Negative,RBC,2023-07-01,47,47,47,13,34
+AB,Negative,RBC,2023-08-01,34,34,34,3,31
+AB,Negative,RBC,2023-09-01,30,30,30,0,30
+AB,Negative,RBC,2023-10-01,31,31,31,0,31
+AB,Negative,RBC,2023-11-01,30,30,30,0,30
+AB,Negative,RBC,2023-12-01,32,32,32,1,31
+AB,Negative,RBC,2024-01-01,31,31,31,0,31
+AB,Negative,RBC,2024-02-01,29,29,29,0,29
+AB,Negative,RBC,2024-03-01,34,34,34,3,31
+AB,Negative,RBC,2024-04-01,51,51,51,18,33
+AB,Negative,RBC,2024-05-01,57,57,57,24,33
+AB,Negative,RBC,2024-06-01,57,57,57,23,34
+AB,Negative,RBC,2024-07-01,57,57,57,21,36
+AB,Negative,RBC,2024-08-01,42,42,42,10,32
+AB,Negative,RBC,2024-09-01,30,30,30,0,30
+AB,Negative,RBC,2024-10-01,33,33,33,1,32
+AB,Negative,RBC,2024-11-01,30,30,30,1,29
+AB,Negative,RBC,2024-12-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-01-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-02-01,28,28,28,0,28
+AB,Negative,Whole Blood,2021-03-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-04-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-05-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-06-01,30,30,30,0,30
+AB,Negative,Whole Blood,2021-07-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-08-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-09-01,30,30,30,0,30
+AB,Negative,Whole Blood,2021-10-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-11-01,31,31,31,0,31
+AB,Negative,Whole Blood,2021-12-01,31,31,31,0,31
+AB,Negative,Whole Blood,2022-01-01,31,31,31,0,31
+AB,Negative,Whole Blood,2022-02-01,29,29,29,1,28
+AB,Negative,Whole Blood,2022-03-01,32,32,32,1,31
+AB,Negative,Whole Blood,2022-04-01,31,31,31,0,31
+AB,Negative,Whole Blood,2022-05-01,38,38,38,6,32
+AB,Negative,Whole Blood,2022-06-01,39,39,39,7,32
+AB,Negative,Whole Blood,2022-07-01,33,33,33,2,31
+AB,Negative,Whole Blood,2022-08-01,31,31,31,0,31
+AB,Negative,Whole Blood,2022-09-01,30,30,30,0,30
+AB,Negative,Whole Blood,2022-10-01,31,31,31,0,31
+AB,Negative,Whole Blood,2022-11-01,30,30,30,0,30
+AB,Negative,Whole Blood,2022-12-01,31,31,31,0,31
+AB,Negative,Whole Blood,2023-01-01,33,33,33,1,32
+AB,Negative,Whole Blood,2023-02-01,30,30,30,1,29
+AB,Negative,Whole Blood,2023-03-01,31,31,31,0,31
+AB,Negative,Whole Blood,2023-04-01,30,30,30,0,30
+AB,Negative,Whole Blood,2023-05-01,31,31,31,0,31
+AB,Negative,Whole Blood,2023-06-01,31,31,31,1,30
+AB,Negative,Whole Blood,2023-07-01,32,32,32,2,30
+AB,Negative,Whole Blood,2023-08-01,31,31,31,0,31
+AB,Negative,Whole Blood,2023-09-01,30,30,30,0,30
+AB,Negative,Whole Blood,2023-10-01,31,31,31,0,31
+AB,Negative,Whole Blood,2023-11-01,30,30,30,0,30
+AB,Negative,Whole Blood,2023-12-01,31,31,31,0,31
+AB,Negative,Whole Blood,2024-01-01,31,31,31,0,31
+AB,Negative,Whole Blood,2024-02-01,29,29,29,0,29
+AB,Negative,Whole Blood,2024-03-01,33,33,33,1,32
+AB,Negative,Whole Blood,2024-04-01,40,40,40,4,36
+AB,Negative,Whole Blood,2024-05-01,36,36,36,2,34
+AB,Negative,Whole Blood,2024-06-01,31,31,31,1,30
+AB,Negative,Whole Blood,2024-07-01,33,33,33,2,31
+AB,Negative,Whole Blood,2024-08-01,31,31,31,0,31
+AB,Negative,Whole Blood,2024-09-01,30,30,30,0,30
+AB,Negative,Whole Blood,2024-10-01,31,31,31,0,31
+AB,Negative,Whole Blood,2024-11-01,30,30,30,0,30
+AB,Negative,Whole Blood,2024-12-01,31,31,31,0,31
+AB,Positive,Plasma,2021-01-01,72,70,70,24,48
+AB,Positive,Plasma,2021-02-01,71,71,71,20,51
+AB,Positive,Plasma,2021-03-01,92,91,91,29,63
+AB,Positive,Plasma,2021-04-01,91,88,88,29,62
+AB,Positive,Plasma,2021-05-01,95,94,94,29,66
+AB,Positive,Plasma,2021-06-01,86,85,85,29,57
+AB,Positive,Plasma,2021-07-01,89,89,89,30,59
+AB,Positive,Plasma,2021-08-01,87,85,85,29,58
+AB,Positive,Plasma,2021-09-01,77,76,76,24,53
+AB,Positive,Plasma,2021-10-01,74,74,74,29,45
+AB,Positive,Plasma,2021-11-01,74,74,74,24,50
+AB,Positive,Plasma,2021-12-01,70,70,70,27,43
+AB,Positive,Plasma,2022-01-01,70,70,70,26,44
+AB,Positive,Plasma,2022-02-01,77,76,76,23,54
+AB,Positive,Plasma,2022-03-01,92,91,91,31,61
+AB,Positive,Plasma,2022-04-01,93,91,91,30,63
+AB,Positive,Plasma,2022-05-01,105,103,103,32,73
+AB,Positive,Plasma,2022-06-01,95,91,91,30,65
+AB,Positive,Plasma,2022-07-01,90,90,90,29,61
+AB,Positive,Plasma,2022-08-01,87,86,86,27,60
+AB,Positive,Plasma,2022-09-01,79,79,79,27,52
+AB,Positive,Plasma,2022-10-01,78,78,78,28,50
+AB,Positive,Plasma,2022-11-01,81,79,78,27,54
+AB,Positive,Plasma,2022-12-01,74,74,74,28,46
+AB,Positive,Plasma,2023-01-01,77,77,77,25,52
+AB,Positive,Plasma,2023-02-01,76,75,75,23,53
+AB,Positive,Plasma,2023-03-01,95,94,93,31,64
+AB,Positive,Plasma,2023-04-01,91,91,91,29,62
+AB,Positive,Plasma,2023-05-01,102,99,99,30,72
+AB,Positive,Plasma,2023-06-01,93,92,91,28,65
+AB,Positive,Plasma,2023-07-01,90,90,90,29,61
+AB,Positive,Plasma,2023-08-01,85,84,84,29,56
+AB,Positive,Plasma,2023-09-01,72,71,71,23,49
+AB,Positive,Plasma,2023-10-01,77,77,77,26,51
+AB,Positive,Plasma,2023-11-01,59,59,59,26,33
+AB,Positive,Plasma,2023-12-01,60,60,60,24,36
+AB,Positive,Plasma,2024-01-01,68,68,68,24,44
+AB,Positive,Plasma,2024-02-01,66,66,66,24,42
+AB,Positive,Plasma,2024-03-01,89,89,89,30,59
+AB,Positive,Plasma,2024-04-01,93,93,93,28,65
+AB,Positive,Plasma,2024-05-01,99,95,95,31,68
+AB,Positive,Plasma,2024-06-01,101,98,98,33,68
+AB,Positive,Plasma,2024-07-01,100,98,98,30,70
+AB,Positive,Plasma,2024-08-01,93,92,92,31,62
+AB,Positive,Plasma,2024-09-01,84,84,84,26,58
+AB,Positive,Plasma,2024-10-01,76,75,75,27,49
+AB,Positive,Plasma,2024-11-01,73,73,73,25,48
+AB,Positive,Plasma,2024-12-01,74,74,74,24,50
+AB,Positive,Platelets,2021-01-01,60,60,60,20,40
+AB,Positive,Platelets,2021-02-01,70,69,69,26,44
+AB,Positive,Platelets,2021-03-01,91,91,90,29,62
+AB,Positive,Platelets,2021-04-01,87,87,87,29,58
+AB,Positive,Platelets,2021-05-01,96,95,95,30,66
+AB,Positive,Platelets,2021-06-01,87,85,84,29,58
+AB,Positive,Platelets,2021-07-01,85,83,83,30,55
+AB,Positive,Platelets,2021-08-01,89,87,87,31,58
+AB,Positive,Platelets,2021-09-01,70,70,70,25,45
+AB,Positive,Platelets,2021-10-01,66,66,66,21,45
+AB,Positive,Platelets,2021-11-01,58,58,58,23,35
+AB,Positive,Platelets,2021-12-01,60,60,60,24,36
+AB,Positive,Platelets,2022-01-01,61,60,60,24,37
+AB,Positive,Platelets,2022-02-01,60,60,60,23,37
+AB,Positive,Platelets,2022-03-01,82,82,82,29,53
+AB,Positive,Platelets,2022-04-01,85,83,83,27,58
+AB,Positive,Platelets,2022-05-01,94,93,93,28,66
+AB,Positive,Platelets,2022-06-01,92,91,91,30,62
+AB,Positive,Platelets,2022-07-01,90,90,90,30,60
+AB,Positive,Platelets,2022-08-01,89,88,88,28,61
+AB,Positive,Platelets,2022-09-01,82,82,81,31,51
+AB,Positive,Platelets,2022-10-01,74,72,72,26,48
+AB,Positive,Platelets,2022-11-01,67,67,67,26,41
+AB,Positive,Platelets,2022-12-01,63,63,63,21,42
+AB,Positive,Platelets,2023-01-01,66,66,66,23,43
+AB,Positive,Platelets,2023-02-01,69,69,69,23,46
+AB,Positive,Platelets,2023-03-01,90,89,89,31,59
+AB,Positive,Platelets,2023-04-01,86,86,86,29,57
+AB,Positive,Platelets,2023-05-01,94,93,93,31,63
+AB,Positive,Platelets,2023-06-01,88,87,87,30,58
+AB,Positive,Platelets,2023-07-01,92,91,91,29,63
+AB,Positive,Platelets,2023-08-01,91,91,91,29,62
+AB,Positive,Platelets,2023-09-01,86,85,84,30,56
+AB,Positive,Platelets,2023-10-01,85,85,85,26,59
+AB,Positive,Platelets,2023-11-01,79,79,79,27,52
+AB,Positive,Platelets,2023-12-01,82,82,82,26,56
+AB,Positive,Platelets,2024-01-01,82,79,79,26,56
+AB,Positive,Platelets,2024-02-01,83,83,83,25,58
+AB,Positive,Platelets,2024-03-01,100,98,98,30,70
+AB,Positive,Platelets,2024-04-01,107,104,103,33,74
+AB,Positive,Platelets,2024-05-01,116,110,110,35,81
+AB,Positive,Platelets,2024-06-01,106,103,102,30,76
+AB,Positive,Platelets,2024-07-01,101,101,101,30,71
+AB,Positive,Platelets,2024-08-01,96,96,96,30,66
+AB,Positive,Platelets,2024-09-01,90,90,90,28,62
+AB,Positive,Platelets,2024-10-01,92,90,90,30,62
+AB,Positive,Platelets,2024-11-01,92,91,91,29,63
+AB,Positive,Platelets,2024-12-01,91,90,90,29,62
+AB,Positive,RBC,2021-01-01,166,159,152,53,113
+AB,Positive,RBC,2021-02-01,162,155,152,49,113
+AB,Positive,RBC,2021-03-01,189,172,166,56,133
+AB,Positive,RBC,2021-04-01,205,192,185,59,146
+AB,Positive,RBC,2021-05-01,210,188,180,59,151
+AB,Positive,RBC,2021-06-01,228,206,199,69,159
+AB,Positive,RBC,2021-07-01,241,223,212,74,167
+AB,Positive,RBC,2021-08-01,211,196,190,64,147
+AB,Positive,RBC,2021-09-01,192,180,177,57,135
+AB,Positive,RBC,2021-10-01,197,188,180,62,135
+AB,Positive,RBC,2021-11-01,192,179,175,57,135
+AB,Positive,RBC,2021-12-01,193,178,172,62,131
+AB,Positive,RBC,2022-01-01,213,195,186,60,153
+AB,Positive,RBC,2022-02-01,197,184,178,60,137
+AB,Positive,RBC,2022-03-01,246,229,222,74,172
+AB,Positive,RBC,2022-04-01,262,246,235,73,189
+AB,Positive,RBC,2022-05-01,286,271,258,82,204
+AB,Positive,RBC,2022-06-01,277,256,242,85,192
+AB,Positive,RBC,2022-07-01,276,250,237,84,192
+AB,Positive,RBC,2022-08-01,265,250,236,76,189
+AB,Positive,RBC,2022-09-01,249,238,226,71,178
+AB,Positive,RBC,2022-10-01,225,208,201,71,154
+AB,Positive,RBC,2022-11-01,208,190,182,61,147
+AB,Positive,RBC,2022-12-01,215,196,189,68,147
+AB,Positive,RBC,2023-01-01,213,199,192,62,151
+AB,Positive,RBC,2023-02-01,203,187,179,55,148
+AB,Positive,RBC,2023-03-01,246,230,216,69,177
+AB,Positive,RBC,2023-04-01,261,241,235,75,186
+AB,Positive,RBC,2023-05-01,273,256,249,87,186
+AB,Positive,RBC,2023-06-01,261,236,223,81,180
+AB,Positive,RBC,2023-07-01,254,236,224,74,180
+AB,Positive,RBC,2023-08-01,257,243,231,74,183
+AB,Positive,RBC,2023-09-01,232,214,203,69,163
+AB,Positive,RBC,2023-10-01,195,178,171,65,130
+AB,Positive,RBC,2023-11-01,184,171,160,51,133
+AB,Positive,RBC,2023-12-01,180,174,169,55,125
+AB,Positive,RBC,2024-01-01,203,190,182,68,135
+AB,Positive,RBC,2024-02-01,204,190,179,62,142
+AB,Positive,RBC,2024-03-01,237,216,207,69,168
+AB,Positive,RBC,2024-04-01,249,230,218,79,170
+AB,Positive,RBC,2024-05-01,286,270,263,82,204
+AB,Positive,RBC,2024-06-01,266,246,229,81,185
+AB,Positive,RBC,2024-07-01,259,245,237,76,183
+AB,Positive,RBC,2024-08-01,226,212,202,67,159
+AB,Positive,RBC,2024-09-01,190,174,167,58,132
+AB,Positive,RBC,2024-10-01,176,167,163,52,124
+AB,Positive,RBC,2024-11-01,173,167,161,53,120
+AB,Positive,RBC,2024-12-01,183,172,167,54,129
+AB,Positive,Whole Blood,2021-01-01,148,142,141,45,103
+AB,Positive,Whole Blood,2021-02-01,130,123,121,35,95
+AB,Positive,Whole Blood,2021-03-01,159,148,146,47,112
+AB,Positive,Whole Blood,2021-04-01,157,150,147,48,109
+AB,Positive,Whole Blood,2021-05-01,163,154,152,48,115
+AB,Positive,Whole Blood,2021-06-01,176,167,163,58,118
+AB,Positive,Whole Blood,2021-07-01,179,164,161,54,125
+AB,Positive,Whole Blood,2021-08-01,172,166,164,51,121
+AB,Positive,Whole Blood,2021-09-01,150,143,141,49,101
+AB,Positive,Whole Blood,2021-10-01,146,135,134,43,103
+AB,Positive,Whole Blood,2021-11-01,140,136,133,45,95
+AB,Positive,Whole Blood,2021-12-01,145,136,135,44,101
+AB,Positive,Whole Blood,2022-01-01,147,137,133,42,105
+AB,Positive,Whole Blood,2022-02-01,142,134,134,43,99
+AB,Positive,Whole Blood,2022-03-01,178,166,163,52,126
+AB,Positive,Whole Blood,2022-04-01,194,189,182,60,134
+AB,Positive,Whole Blood,2022-05-01,204,194,182,64,140
+AB,Positive,Whole Blood,2022-06-01,189,178,171,55,134
+AB,Positive,Whole Blood,2022-07-01,174,162,161,53,121
+AB,Positive,Whole Blood,2022-08-01,180,166,162,54,126
+AB,Positive,Whole Blood,2022-09-01,143,140,140,43,100
+AB,Positive,Whole Blood,2022-10-01,128,123,122,35,93
+AB,Positive,Whole Blood,2022-11-01,128,123,120,41,87
+AB,Positive,Whole Blood,2022-12-01,132,127,124,40,92
+AB,Positive,Whole Blood,2023-01-01,145,138,134,47,98
+AB,Positive,Whole Blood,2023-02-01,143,133,132,43,100
+AB,Positive,Whole Blood,2023-03-01,177,164,156,56,121
+AB,Positive,Whole Blood,2023-04-01,187,169,167,57,130
+AB,Positive,Whole Blood,2023-05-01,198,185,179,58,140
+AB,Positive,Whole Blood,2023-06-01,198,186,180,61,137
+AB,Positive,Whole Blood,2023-07-01,195,185,180,63,132
+AB,Positive,Whole Blood,2023-08-01,174,164,160,54,120
+AB,Positive,Whole Blood,2023-09-01,152,145,142,51,101
+AB,Positive,Whole Blood,2023-10-01,140,127,124,42,98
+AB,Positive,Whole Blood,2023-11-01,136,130,128,38,98
+AB,Positive,Whole Blood,2023-12-01,136,131,129,39,97
+AB,Positive,Whole Blood,2024-01-01,151,142,138,44,107
+AB,Positive,Whole Blood,2024-02-01,174,157,154,52,122
+AB,Positive,Whole Blood,2024-03-01,186,177,171,57,129
+AB,Positive,Whole Blood,2024-04-01,202,186,182,62,140
+AB,Positive,Whole Blood,2024-05-01,220,208,199,70,150
+AB,Positive,Whole Blood,2024-06-01,219,204,192,66,153
+AB,Positive,Whole Blood,2024-07-01,210,197,190,63,147
+AB,Positive,Whole Blood,2024-08-01,202,186,178,58,144
+AB,Positive,Whole Blood,2024-09-01,179,165,162,59,120
+AB,Positive,Whole Blood,2024-10-01,178,164,161,54,124
+AB,Positive,Whole Blood,2024-11-01,158,149,146,44,114
+AB,Positive,Whole Blood,2024-12-01,160,148,145,49,111
+B,Negative,Plasma,2021-01-01,24,24,24,0,24
+B,Negative,Plasma,2021-02-01,28,28,28,0,28
+B,Negative,Plasma,2021-03-01,31,31,31,0,31
+B,Negative,Plasma,2021-04-01,30,30,30,0,30
+B,Negative,Plasma,2021-05-01,31,31,31,0,31
+B,Negative,Plasma,2021-06-01,30,30,30,0,30
+B,Negative,Plasma,2021-07-01,31,31,31,0,31
+B,Negative,Plasma,2021-08-01,31,31,31,0,31
+B,Negative,Plasma,2021-09-01,30,30,30,0,30
+B,Negative,Plasma,2021-10-01,30,30,30,0,30
+B,Negative,Plasma,2021-11-01,25,25,25,0,25
+B,Negative,Plasma,2021-12-01,31,31,31,0,31
+B,Negative,Plasma,2022-01-01,31,31,31,0,31
+B,Negative,Plasma,2022-02-01,30,30,30,1,29
+B,Negative,Plasma,2022-03-01,30,30,30,0,30
+B,Negative,Plasma,2022-04-01,30,30,30,0,30
+B,Negative,Plasma,2022-05-01,31,31,31,0,31
+B,Negative,Plasma,2022-06-01,30,30,30,0,30
+B,Negative,Plasma,2022-07-01,31,31,31,1,30
+B,Negative,Plasma,2022-08-01,31,31,31,0,31
+B,Negative,Plasma,2022-09-01,32,32,32,1,31
+B,Negative,Plasma,2022-10-01,31,31,31,0,31
+B,Negative,Plasma,2022-11-01,30,30,30,0,30
+B,Negative,Plasma,2022-12-01,33,33,33,1,32
+B,Negative,Plasma,2023-01-01,33,33,33,1,32
+B,Negative,Plasma,2023-02-01,27,27,27,0,27
+B,Negative,Plasma,2023-03-01,32,32,32,0,32
+B,Negative,Plasma,2023-04-01,33,33,33,2,31
+B,Negative,Plasma,2023-05-01,36,36,36,4,32
+B,Negative,Plasma,2023-06-01,46,46,46,11,35
+B,Negative,Plasma,2023-07-01,44,44,44,10,34
+B,Negative,Plasma,2023-08-01,32,32,32,0,32
+B,Negative,Plasma,2023-09-01,30,30,30,0,30
+B,Negative,Plasma,2023-10-01,31,31,31,0,31
+B,Negative,Plasma,2023-11-01,30,30,30,0,30
+B,Negative,Plasma,2023-12-01,31,31,31,0,31
+B,Negative,Plasma,2024-01-01,31,31,31,0,31
+B,Negative,Plasma,2024-02-01,33,33,33,3,30
+B,Negative,Plasma,2024-03-01,44,44,44,10,34
+B,Negative,Plasma,2024-04-01,52,52,52,18,34
+B,Negative,Plasma,2024-05-01,57,57,57,18,39
+B,Negative,Plasma,2024-06-01,55,55,55,13,42
+B,Negative,Plasma,2024-07-01,54,54,54,15,39
+B,Negative,Plasma,2024-08-01,44,44,44,8,36
+B,Negative,Plasma,2024-09-01,32,32,32,0,32
+B,Negative,Plasma,2024-10-01,31,31,31,0,31
+B,Negative,Plasma,2024-11-01,30,30,30,0,30
+B,Negative,Plasma,2024-12-01,31,31,31,0,31
+B,Negative,Platelets,2021-01-01,31,31,31,0,31
+B,Negative,Platelets,2021-02-01,28,28,28,0,28
+B,Negative,Platelets,2021-03-01,32,32,32,1,31
+B,Negative,Platelets,2021-04-01,30,30,30,0,30
+B,Negative,Platelets,2021-05-01,33,33,33,1,32
+B,Negative,Platelets,2021-06-01,30,30,30,0,30
+B,Negative,Platelets,2021-07-01,31,31,31,0,31
+B,Negative,Platelets,2021-08-01,31,31,31,0,31
+B,Negative,Platelets,2021-09-01,30,30,30,0,30
+B,Negative,Platelets,2021-10-01,31,31,31,0,31
+B,Negative,Platelets,2021-11-01,30,30,30,0,30
+B,Negative,Platelets,2021-12-01,31,31,31,1,30
+B,Negative,Platelets,2022-01-01,31,31,31,0,31
+B,Negative,Platelets,2022-02-01,27,27,27,0,27
+B,Negative,Platelets,2022-03-01,31,31,31,0,31
+B,Negative,Platelets,2022-04-01,30,30,30,0,30
+B,Negative,Platelets,2022-05-01,31,31,31,0,31
+B,Negative,Platelets,2022-06-01,30,30,30,1,29
+B,Negative,Platelets,2022-07-01,31,31,31,0,31
+B,Negative,Platelets,2022-08-01,31,31,31,0,31
+B,Negative,Platelets,2022-09-01,30,30,30,0,30
+B,Negative,Platelets,2022-10-01,31,31,31,0,31
+B,Negative,Platelets,2022-11-01,32,32,32,1,31
+B,Negative,Platelets,2022-12-01,32,32,32,1,31
+B,Negative,Platelets,2023-01-01,31,31,31,0,31
+B,Negative,Platelets,2023-02-01,28,28,28,0,28
+B,Negative,Platelets,2023-03-01,31,31,31,0,31
+B,Negative,Platelets,2023-04-01,35,35,35,1,34
+B,Negative,Platelets,2023-05-01,32,32,32,0,32
+B,Negative,Platelets,2023-06-01,40,40,40,10,30
+B,Negative,Platelets,2023-07-01,33,33,33,1,32
+B,Negative,Platelets,2023-08-01,31,31,31,0,31
+B,Negative,Platelets,2023-09-01,31,31,31,0,31
+B,Negative,Platelets,2023-10-01,31,31,31,0,31
+B,Negative,Platelets,2023-11-01,30,30,30,0,30
+B,Negative,Platelets,2023-12-01,31,31,31,0,31
+B,Negative,Platelets,2024-01-01,31,31,31,0,31
+B,Negative,Platelets,2024-02-01,31,31,31,1,30
+B,Negative,Platelets,2024-03-01,31,31,31,1,30
+B,Negative,Platelets,2024-04-01,40,40,40,12,28
+B,Negative,Platelets,2024-05-01,45,45,45,9,36
+B,Negative,Platelets,2024-06-01,48,48,48,16,32
+B,Negative,Platelets,2024-07-01,38,38,38,7,31
+B,Negative,Platelets,2024-08-01,35,35,35,1,34
+B,Negative,Platelets,2024-09-01,31,31,31,1,30
+B,Negative,Platelets,2024-10-01,31,31,31,0,31
+B,Negative,Platelets,2024-11-01,33,33,33,2,31
+B,Negative,Platelets,2024-12-01,32,32,32,1,31
+B,Negative,RBC,2021-01-01,65,65,65,26,39
+B,Negative,RBC,2021-02-01,60,60,60,23,37
+B,Negative,RBC,2021-03-01,70,70,70,25,45
+B,Negative,RBC,2021-04-01,84,82,82,27,57
+B,Negative,RBC,2021-05-01,97,96,96,30,67
+B,Negative,RBC,2021-06-01,90,88,88,29,61
+B,Negative,RBC,2021-07-01,92,92,92,32,60
+B,Negative,RBC,2021-08-01,89,89,89,30,59
+B,Negative,RBC,2021-09-01,76,76,76,29,47
+B,Negative,RBC,2021-10-01,69,69,69,26,43
+B,Negative,RBC,2021-11-01,71,70,70,23,48
+B,Negative,RBC,2021-12-01,77,77,77,26,51
+B,Negative,RBC,2022-01-01,75,75,75,21,54
+B,Negative,RBC,2022-02-01,77,77,77,23,54
+B,Negative,RBC,2022-03-01,90,89,89,28,62
+B,Negative,RBC,2022-04-01,90,90,90,29,61
+B,Negative,RBC,2022-05-01,92,92,92,32,60
+B,Negative,RBC,2022-06-01,89,89,89,30,59
+B,Negative,RBC,2022-07-01,86,85,85,29,57
+B,Negative,RBC,2022-08-01,84,83,83,27,57
+B,Negative,RBC,2022-09-01,66,66,66,26,40
+B,Negative,RBC,2022-10-01,61,61,61,22,39
+B,Negative,RBC,2022-11-01,61,61,61,20,41
+B,Negative,RBC,2022-12-01,59,59,59,20,39
+B,Negative,RBC,2023-01-01,62,62,62,24,38
+B,Negative,RBC,2023-02-01,58,58,58,15,43
+B,Negative,RBC,2023-03-01,65,65,65,27,38
+B,Negative,RBC,2023-04-01,71,71,71,25,46
+B,Negative,RBC,2023-05-01,71,71,71,29,42
+B,Negative,RBC,2023-06-01,74,74,74,28,46
+B,Negative,RBC,2023-07-01,77,77,77,27,50
+B,Negative,RBC,2023-08-01,65,65,65,24,41
+B,Negative,RBC,2023-09-01,59,59,59,21,38
+B,Negative,RBC,2023-10-01,59,59,59,18,41
+B,Negative,RBC,2023-11-01,53,53,53,19,34
+B,Negative,RBC,2023-12-01,44,44,44,9,35
+B,Negative,RBC,2024-01-01,50,50,50,15,35
+B,Negative,RBC,2024-02-01,52,52,52,19,33
+B,Negative,RBC,2024-03-01,61,61,61,25,36
+B,Negative,RBC,2024-04-01,67,67,67,25,42
+B,Negative,RBC,2024-05-01,81,80,80,28,53
+B,Negative,RBC,2024-06-01,84,82,82,28,56
+B,Negative,RBC,2024-07-01,82,82,82,28,54
+B,Negative,RBC,2024-08-01,77,77,77,27,50
+B,Negative,RBC,2024-09-01,69,69,69,23,46
+B,Negative,RBC,2024-10-01,63,63,63,21,42
+B,Negative,RBC,2024-11-01,58,58,58,20,38
+B,Negative,RBC,2024-12-01,58,58,58,22,36
+B,Negative,Whole Blood,2021-01-01,34,34,34,2,32
+B,Negative,Whole Blood,2021-02-01,44,44,44,13,31
+B,Negative,Whole Blood,2021-03-01,60,59,59,21,39
+B,Negative,Whole Blood,2021-04-01,62,62,62,25,37
+B,Negative,Whole Blood,2021-05-01,62,62,62,25,37
+B,Negative,Whole Blood,2021-06-01,60,60,60,23,37
+B,Negative,Whole Blood,2021-07-01,62,62,62,23,39
+B,Negative,Whole Blood,2021-08-01,57,57,57,17,40
+B,Negative,Whole Blood,2021-09-01,53,53,53,13,40
+B,Negative,Whole Blood,2021-10-01,39,39,39,7,32
+B,Negative,Whole Blood,2021-11-01,38,38,38,3,35
+B,Negative,Whole Blood,2021-12-01,37,37,37,3,34
+B,Negative,Whole Blood,2022-01-01,54,54,54,12,42
+B,Negative,Whole Blood,2022-02-01,51,51,51,17,34
+B,Negative,Whole Blood,2022-03-01,61,61,61,21,40
+B,Negative,Whole Blood,2022-04-01,61,61,61,23,38
+B,Negative,Whole Blood,2022-05-01,62,62,62,19,43
+B,Negative,Whole Blood,2022-06-01,60,60,60,22,38
+B,Negative,Whole Blood,2022-07-01,62,62,62,24,38
+B,Negative,Whole Blood,2022-08-01,64,64,64,24,40
+B,Negative,Whole Blood,2022-09-01,60,60,60,22,38
+B,Negative,Whole Blood,2022-10-01,58,58,58,20,38
+B,Negative,Whole Blood,2022-11-01,53,53,53,17,36
+B,Negative,Whole Blood,2022-12-01,54,54,54,17,37
+B,Negative,Whole Blood,2023-01-01,53,53,53,19,34
+B,Negative,Whole Blood,2023-02-01,48,48,48,15,33
+B,Negative,Whole Blood,2023-03-01,61,61,61,23,38
+B,Negative,Whole Blood,2023-04-01,60,60,60,26,34
+B,Negative,Whole Blood,2023-05-01,62,62,62,23,39
+B,Negative,Whole Blood,2023-06-01,60,60,60,24,36
+B,Negative,Whole Blood,2023-07-01,62,62,62,26,36
+B,Negative,Whole Blood,2023-08-01,61,61,61,24,37
+B,Negative,Whole Blood,2023-09-01,56,56,56,21,35
+B,Negative,Whole Blood,2023-10-01,53,53,53,14,39
+B,Negative,Whole Blood,2023-11-01,49,49,49,12,37
+B,Negative,Whole Blood,2023-12-01,49,49,49,16,33
+B,Negative,Whole Blood,2024-01-01,61,61,61,25,36
+B,Negative,Whole Blood,2024-02-01,56,56,56,22,34
+B,Negative,Whole Blood,2024-03-01,61,61,61,20,41
+B,Negative,Whole Blood,2024-04-01,60,60,60,21,39
+B,Negative,Whole Blood,2024-05-01,62,62,62,26,36
+B,Negative,Whole Blood,2024-06-01,60,60,60,19,41
+B,Negative,Whole Blood,2024-07-01,61,61,61,21,40
+B,Negative,Whole Blood,2024-08-01,54,54,54,15,39
+B,Negative,Whole Blood,2024-09-01,42,42,42,10,32
+B,Negative,Whole Blood,2024-10-01,35,35,35,3,32
+B,Negative,Whole Blood,2024-11-01,31,31,31,0,31
+B,Negative,Whole Blood,2024-12-01,31,31,31,0,31
+B,Positive,Plasma,2021-01-01,352,321,298,110,242
+B,Positive,Plasma,2021-02-01,312,289,277,98,214
+B,Positive,Plasma,2021-03-01,405,377,360,121,284
+B,Positive,Plasma,2021-04-01,430,398,385,127,303
+B,Positive,Plasma,2021-05-01,486,446,421,138,348
+B,Positive,Plasma,2021-06-01,465,434,415,139,326
+B,Positive,Plasma,2021-07-01,476,443,417,150,326
+B,Positive,Plasma,2021-08-01,483,455,433,149,334
+B,Positive,Plasma,2021-09-01,463,438,410,142,321
+B,Positive,Plasma,2021-10-01,423,392,373,122,301
+B,Positive,Plasma,2021-11-01,384,359,344,116,268
+B,Positive,Plasma,2021-12-01,396,360,340,112,284
+B,Positive,Plasma,2022-01-01,421,387,369,124,297
+B,Positive,Plasma,2022-02-01,414,383,364,129,285
+B,Positive,Plasma,2022-03-01,523,482,464,145,378
+B,Positive,Plasma,2022-04-01,515,486,463,161,354
+B,Positive,Plasma,2022-05-01,562,524,498,157,405
+B,Positive,Plasma,2022-06-01,540,498,474,157,383
+B,Positive,Plasma,2022-07-01,516,470,447,152,364
+B,Positive,Plasma,2022-08-01,471,438,417,146,325
+B,Positive,Plasma,2022-09-01,405,379,358,122,283
+B,Positive,Plasma,2022-10-01,375,345,328,109,266
+B,Positive,Plasma,2022-11-01,349,321,303,102,247
+B,Positive,Plasma,2022-12-01,374,348,334,115,259
+B,Positive,Plasma,2023-01-01,389,360,342,113,276
+B,Positive,Plasma,2023-02-01,369,345,324,104,265
+B,Positive,Plasma,2023-03-01,413,386,366,130,283
+B,Positive,Plasma,2023-04-01,388,364,343,119,269
+B,Positive,Plasma,2023-05-01,384,354,339,118,266
+B,Positive,Plasma,2023-06-01,422,387,368,131,291
+B,Positive,Plasma,2023-07-01,409,382,365,115,294
+B,Positive,Plasma,2023-08-01,390,354,334,131,259
+B,Positive,Plasma,2023-09-01,319,297,282,94,225
+B,Positive,Plasma,2023-10-01,309,290,279,95,214
+B,Positive,Plasma,2023-11-01,301,281,265,89,212
+B,Positive,Plasma,2023-12-01,301,278,264,96,205
+B,Positive,Plasma,2024-01-01,354,328,313,105,249
+B,Positive,Plasma,2024-02-01,351,327,314,104,247
+B,Positive,Plasma,2024-03-01,415,388,370,130,285
+B,Positive,Plasma,2024-04-01,463,431,403,141,322
+B,Positive,Plasma,2024-05-01,487,458,434,138,349
+B,Positive,Plasma,2024-06-01,469,434,416,134,335
+B,Positive,Plasma,2024-07-01,512,475,448,142,370
+B,Positive,Plasma,2024-08-01,485,450,426,154,331
+B,Positive,Plasma,2024-09-01,409,372,352,122,287
+B,Positive,Plasma,2024-10-01,393,367,344,123,270
+B,Positive,Plasma,2024-11-01,373,350,325,110,263
+B,Positive,Plasma,2024-12-01,405,376,356,117,288
+B,Positive,Platelets,2021-01-01,187,175,168,59,128
+B,Positive,Platelets,2021-02-01,225,208,198,71,154
+B,Positive,Platelets,2021-03-01,294,272,255,95,199
+B,Positive,Platelets,2021-04-01,299,276,260,83,216
+B,Positive,Platelets,2021-05-01,319,298,278,95,224
+B,Positive,Platelets,2021-06-01,322,296,283,92,230
+B,Positive,Platelets,2021-07-01,344,326,308,109,235
+B,Positive,Platelets,2021-08-01,334,306,287,91,243
+B,Positive,Platelets,2021-09-01,297,266,257,87,210
+B,Positive,Platelets,2021-10-01,280,261,245,88,192
+B,Positive,Platelets,2021-11-01,242,223,213,71,171
+B,Positive,Platelets,2021-12-01,246,227,214,78,168
+B,Positive,Platelets,2022-01-01,260,238,226,77,183
+B,Positive,Platelets,2022-02-01,281,257,241,85,196
+B,Positive,Platelets,2022-03-01,362,336,319,107,255
+B,Positive,Platelets,2022-04-01,400,368,347,112,288
+B,Positive,Platelets,2022-05-01,423,397,373,123,300
+B,Positive,Platelets,2022-06-01,432,401,382,131,301
+B,Positive,Platelets,2022-07-01,434,396,377,133,301
+B,Positive,Platelets,2022-08-01,438,397,385,123,315
+B,Positive,Platelets,2022-09-01,416,386,364,130,286
+B,Positive,Platelets,2022-10-01,441,410,387,127,314
+B,Positive,Platelets,2022-11-01,433,392,372,124,309
+B,Positive,Platelets,2022-12-01,449,421,398,133,316
+B,Positive,Platelets,2023-01-01,460,428,410,143,317
+B,Positive,Platelets,2023-02-01,448,411,395,119,329
+B,Positive,Platelets,2023-03-01,549,510,485,173,376
+B,Positive,Platelets,2023-04-01,570,532,497,189,381
+B,Positive,Platelets,2023-05-01,608,567,543,182,426
+B,Positive,Platelets,2023-06-01,584,542,519,166,418
+B,Positive,Platelets,2023-07-01,595,549,522,189,406
+B,Positive,Platelets,2023-08-01,545,501,476,167,378
+B,Positive,Platelets,2023-09-01,487,442,417,157,330
+B,Positive,Platelets,2023-10-01,486,452,429,155,331
+B,Positive,Platelets,2023-11-01,408,381,366,123,285
+B,Positive,Platelets,2023-12-01,403,370,350,119,284
+B,Positive,Platelets,2024-01-01,412,384,367,128,284
+B,Positive,Platelets,2024-02-01,432,401,381,120,312
+B,Positive,Platelets,2024-03-01,459,422,397,134,325
+B,Positive,Platelets,2024-04-01,503,465,435,156,347
+B,Positive,Platelets,2024-05-01,546,508,482,169,377
+B,Positive,Platelets,2024-06-01,558,519,489,184,374
+B,Positive,Platelets,2024-07-01,586,548,518,176,410
+B,Positive,Platelets,2024-08-01,519,485,463,157,362
+B,Positive,Platelets,2024-09-01,459,425,405,127,332
+B,Positive,Platelets,2024-10-01,432,396,376,130,302
+B,Positive,Platelets,2024-11-01,416,388,366,132,284
+B,Positive,Platelets,2024-12-01,453,415,393,130,323
+B,Positive,RBC,2021-01-01,538,495,472,174,364
+B,Positive,RBC,2021-02-01,536,505,478,161,375
+B,Positive,RBC,2021-03-01,711,665,631,201,510
+B,Positive,RBC,2021-04-01,748,702,673,242,506
+B,Positive,RBC,2021-05-01,790,720,689,228,562
+B,Positive,RBC,2021-06-01,801,743,696,245,556
+B,Positive,RBC,2021-07-01,770,708,671,210,560
+B,Positive,RBC,2021-08-01,712,656,622,207,505
+B,Positive,RBC,2021-09-01,597,551,516,160,437
+B,Positive,RBC,2021-10-01,499,468,438,154,345
+B,Positive,RBC,2021-11-01,495,462,436,148,347
+B,Positive,RBC,2021-12-01,587,542,516,182,405
+B,Positive,RBC,2022-01-01,739,687,652,210,529
+B,Positive,RBC,2022-02-01,782,731,683,225,557
+B,Positive,RBC,2022-03-01,1073,986,934,335,738
+B,Positive,RBC,2022-04-01,1175,1078,1007,354,821
+B,Positive,RBC,2022-05-01,1375,1264,1207,405,970
+B,Positive,RBC,2022-06-01,1279,1179,1121,386,893
+B,Positive,RBC,2022-07-01,1303,1211,1147,375,928
+B,Positive,RBC,2022-08-01,1258,1146,1082,371,887
+B,Positive,RBC,2022-09-01,1204,1132,1067,384,820
+B,Positive,RBC,2022-10-01,1232,1130,1067,360,872
+B,Positive,RBC,2022-11-01,1160,1073,1029,349,811
+B,Positive,RBC,2022-12-01,1160,1065,1010,342,818
+B,Positive,RBC,2023-01-01,1205,1142,1079,362,843
+B,Positive,RBC,2023-02-01,1139,1061,1010,304,835
+B,Positive,RBC,2023-03-01,1301,1206,1149,407,894
+B,Positive,RBC,2023-04-01,1365,1276,1206,424,941
+B,Positive,RBC,2023-05-01,1477,1374,1306,444,1033
+B,Positive,RBC,2023-06-01,1446,1361,1291,438,1008
+B,Positive,RBC,2023-07-01,1558,1430,1355,472,1086
+B,Positive,RBC,2023-08-01,1523,1396,1328,461,1062
+B,Positive,RBC,2023-09-01,1339,1250,1175,398,941
+B,Positive,RBC,2023-10-01,1276,1175,1110,387,889
+B,Positive,RBC,2023-11-01,1095,1007,951,322,773
+B,Positive,RBC,2023-12-01,1085,1014,974,327,758
+B,Positive,RBC,2024-01-01,1104,1012,957,346,758
+B,Positive,RBC,2024-02-01,1146,1060,997,333,813
+B,Positive,RBC,2024-03-01,1343,1237,1174,412,931
+B,Positive,RBC,2024-04-01,1467,1375,1289,447,1020
+B,Positive,RBC,2024-05-01,1585,1472,1390,478,1107
+B,Positive,RBC,2024-06-01,1564,1454,1369,506,1058
+B,Positive,RBC,2024-07-01,1576,1457,1375,492,1084
+B,Positive,RBC,2024-08-01,1512,1393,1316,454,1058
+B,Positive,RBC,2024-09-01,1305,1199,1136,383,922
+B,Positive,RBC,2024-10-01,1293,1210,1134,387,906
+B,Positive,RBC,2024-11-01,1162,1071,1018,362,800
+B,Positive,RBC,2024-12-01,1244,1170,1115,350,894
+B,Positive,Whole Blood,2021-01-01,803,746,709,229,574
+B,Positive,Whole Blood,2021-02-01,802,739,700,245,557
+B,Positive,Whole Blood,2021-03-01,977,899,850,318,659
+B,Positive,Whole Blood,2021-04-01,1046,967,914,324,722
+B,Positive,Whole Blood,2021-05-01,1095,1018,973,331,764
+B,Positive,Whole Blood,2021-06-01,1083,1011,958,356,727
+B,Positive,Whole Blood,2021-07-01,1066,995,940,339,727
+B,Positive,Whole Blood,2021-08-01,958,887,839,291,667
+B,Positive,Whole Blood,2021-09-01,770,728,684,244,526
+B,Positive,Whole Blood,2021-10-01,703,659,626,214,489
+B,Positive,Whole Blood,2021-11-01,648,600,568,210,438
+B,Positive,Whole Blood,2021-12-01,612,573,548,180,432
+B,Positive,Whole Blood,2022-01-01,691,647,610,195,496
+B,Positive,Whole Blood,2022-02-01,678,630,594,199,479
+B,Positive,Whole Blood,2022-03-01,859,793,747,257,602
+B,Positive,Whole Blood,2022-04-01,899,842,801,293,606
+B,Positive,Whole Blood,2022-05-01,999,928,879,286,713
+B,Positive,Whole Blood,2022-06-01,871,811,765,253,618
+B,Positive,Whole Blood,2022-07-01,904,840,791,265,639
+B,Positive,Whole Blood,2022-08-01,841,789,743,234,607
+B,Positive,Whole Blood,2022-09-01,721,671,641,210,511
+B,Positive,Whole Blood,2022-10-01,710,658,617,202,508
+B,Positive,Whole Blood,2022-11-01,715,655,614,213,502
+B,Positive,Whole Blood,2022-12-01,789,726,682,245,544
+B,Positive,Whole Blood,2023-01-01,800,753,710,240,560
+B,Positive,Whole Blood,2023-02-01,733,686,657,214,519
+B,Positive,Whole Blood,2023-03-01,869,815,772,253,616
+B,Positive,Whole Blood,2023-04-01,941,883,837,282,659
+B,Positive,Whole Blood,2023-05-01,1020,940,889,321,699
+B,Positive,Whole Blood,2023-06-01,960,890,836,288,672
+B,Positive,Whole Blood,2023-07-01,966,887,842,276,690
+B,Positive,Whole Blood,2023-08-01,898,832,795,268,630
+B,Positive,Whole Blood,2023-09-01,807,744,701,232,575
+B,Positive,Whole Blood,2023-10-01,755,689,649,228,527
+B,Positive,Whole Blood,2023-11-01,675,620,594,188,487
+B,Positive,Whole Blood,2023-12-01,631,591,560,192,439
+B,Positive,Whole Blood,2024-01-01,725,667,628,199,526
+B,Positive,Whole Blood,2024-02-01,779,716,685,237,542
+B,Positive,Whole Blood,2024-03-01,849,787,749,262,587
+B,Positive,Whole Blood,2024-04-01,936,860,811,284,652
+B,Positive,Whole Blood,2024-05-01,989,919,873,307,682
+B,Positive,Whole Blood,2024-06-01,892,811,768,301,591
+B,Positive,Whole Blood,2024-07-01,879,825,788,277,602
+B,Positive,Whole Blood,2024-08-01,882,824,784,279,603
+B,Positive,Whole Blood,2024-09-01,836,784,742,260,576
+B,Positive,Whole Blood,2024-10-01,739,693,655,223,516
+B,Positive,Whole Blood,2024-11-01,648,596,565,207,441
+B,Positive,Whole Blood,2024-12-01,672,628,601,214,458
+O,Negative,Plasma,2021-01-01,30,30,30,1,29
+O,Negative,Plasma,2021-02-01,28,28,28,0,28
+O,Negative,Plasma,2021-03-01,31,31,31,0,31
+O,Negative,Plasma,2021-04-01,30,30,30,1,29
+O,Negative,Plasma,2021-05-01,31,31,31,0,31
+O,Negative,Plasma,2021-06-01,30,30,30,0,30
+O,Negative,Plasma,2021-07-01,31,31,31,0,31
+O,Negative,Plasma,2021-08-01,31,31,31,0,31
+O,Negative,Plasma,2021-09-01,30,30,30,0,30
+O,Negative,Plasma,2021-10-01,31,31,31,0,31
+O,Negative,Plasma,2021-11-01,30,30,30,1,29
+O,Negative,Plasma,2021-12-01,31,31,31,0,31
+O,Negative,Plasma,2022-01-01,31,31,31,1,30
+O,Negative,Plasma,2022-02-01,28,28,28,0,28
+O,Negative,Plasma,2022-03-01,31,31,31,0,31
+O,Negative,Plasma,2022-04-01,30,30,30,0,30
+O,Negative,Plasma,2022-05-01,32,32,32,1,31
+O,Negative,Plasma,2022-06-01,30,30,30,0,30
+O,Negative,Plasma,2022-07-01,31,31,31,0,31
+O,Negative,Plasma,2022-08-01,31,31,31,0,31
+O,Negative,Plasma,2022-09-01,32,32,32,1,31
+O,Negative,Plasma,2022-10-01,33,33,33,1,32
+O,Negative,Plasma,2022-11-01,30,30,30,0,30
+O,Negative,Plasma,2022-12-01,31,31,31,0,31
+O,Negative,Plasma,2023-01-01,30,30,30,0,30
+O,Negative,Plasma,2023-02-01,28,28,28,0,28
+O,Negative,Plasma,2023-03-01,31,31,31,0,31
+O,Negative,Plasma,2023-04-01,30,30,30,0,30
+O,Negative,Plasma,2023-05-01,34,34,34,1,33
+O,Negative,Plasma,2023-06-01,31,31,31,2,29
+O,Negative,Plasma,2023-07-01,32,32,32,1,31
+O,Negative,Plasma,2023-08-01,31,31,31,0,31
+O,Negative,Plasma,2023-09-01,30,30,30,0,30
+O,Negative,Plasma,2023-10-01,33,33,33,1,32
+O,Negative,Plasma,2023-11-01,30,30,30,0,30
+O,Negative,Plasma,2023-12-01,31,31,31,0,31
+O,Negative,Plasma,2024-01-01,31,31,31,0,31
+O,Negative,Plasma,2024-02-01,34,34,34,3,31
+O,Negative,Plasma,2024-03-01,55,55,55,21,34
+O,Negative,Plasma,2024-04-01,59,59,59,22,37
+O,Negative,Plasma,2024-05-01,63,63,63,27,36
+O,Negative,Plasma,2024-06-01,60,60,60,22,38
+O,Negative,Plasma,2024-07-01,62,62,62,26,36
+O,Negative,Plasma,2024-08-01,54,54,54,16,38
+O,Negative,Plasma,2024-09-01,46,46,46,12,34
+O,Negative,Plasma,2024-10-01,40,40,40,7,33
+O,Negative,Plasma,2024-11-01,30,30,30,0,30
+O,Negative,Plasma,2024-12-01,32,32,32,1,31
+O,Negative,Platelets,2021-01-01,31,31,31,0,31
+O,Negative,Platelets,2021-02-01,28,28,28,0,28
+O,Negative,Platelets,2021-03-01,31,31,31,0,31
+O,Negative,Platelets,2021-04-01,30,30,30,0,30
+O,Negative,Platelets,2021-05-01,33,33,33,1,32
+O,Negative,Platelets,2021-06-01,30,30,30,0,30
+O,Negative,Platelets,2021-07-01,33,33,33,1,32
+O,Negative,Platelets,2021-08-01,31,31,31,0,31
+O,Negative,Platelets,2021-09-01,30,30,30,0,30
+O,Negative,Platelets,2021-10-01,31,31,31,0,31
+O,Negative,Platelets,2021-11-01,30,30,30,0,30
+O,Negative,Platelets,2021-12-01,31,31,31,1,30
+O,Negative,Platelets,2022-01-01,31,31,31,0,31
+O,Negative,Platelets,2022-02-01,29,29,29,0,29
+O,Negative,Platelets,2022-03-01,39,39,39,8,31
+O,Negative,Platelets,2022-04-01,54,54,54,18,36
+O,Negative,Platelets,2022-05-01,53,53,53,18,35
+O,Negative,Platelets,2022-06-01,37,37,37,6,31
+O,Negative,Platelets,2022-07-01,31,31,31,0,31
+O,Negative,Platelets,2022-08-01,31,31,31,0,31
+O,Negative,Platelets,2022-09-01,30,30,30,0,30
+O,Negative,Platelets,2022-10-01,33,33,33,1,32
+O,Negative,Platelets,2022-11-01,30,30,30,0,30
+O,Negative,Platelets,2022-12-01,31,31,31,0,31
+O,Negative,Platelets,2023-01-01,30,30,30,0,30
+O,Negative,Platelets,2023-02-01,28,28,28,1,27
+O,Negative,Platelets,2023-03-01,31,31,31,0,31
+O,Negative,Platelets,2023-04-01,30,30,30,0,30
+O,Negative,Platelets,2023-05-01,31,31,31,0,31
+O,Negative,Platelets,2023-06-01,30,30,30,0,30
+O,Negative,Platelets,2023-07-01,31,31,31,0,31
+O,Negative,Platelets,2023-08-01,31,31,31,0,31
+O,Negative,Platelets,2023-09-01,31,31,31,1,30
+O,Negative,Platelets,2023-10-01,31,31,31,0,31
+O,Negative,Platelets,2023-11-01,30,30,30,0,30
+O,Negative,Platelets,2023-12-01,32,32,32,1,31
+O,Negative,Platelets,2024-01-01,32,32,32,1,31
+O,Negative,Platelets,2024-02-01,29,29,29,0,29
+O,Negative,Platelets,2024-03-01,34,34,34,3,31
+O,Negative,Platelets,2024-04-01,45,45,45,13,32
+O,Negative,Platelets,2024-05-01,53,53,53,16,37
+O,Negative,Platelets,2024-06-01,48,48,48,12,36
+O,Negative,Platelets,2024-07-01,48,48,48,13,35
+O,Negative,Platelets,2024-08-01,34,34,34,3,31
+O,Negative,Platelets,2024-09-01,30,30,30,1,29
+O,Negative,Platelets,2024-10-01,31,31,31,0,31
+O,Negative,Platelets,2024-11-01,30,30,30,0,30
+O,Negative,Platelets,2024-12-01,31,31,31,0,31
+O,Negative,RBC,2021-01-01,65,65,65,22,43
+O,Negative,RBC,2021-02-01,58,58,58,19,39
+O,Negative,RBC,2021-03-01,70,70,70,27,43
+O,Negative,RBC,2021-04-01,76,76,76,26,50
+O,Negative,RBC,2021-05-01,81,81,81,27,54
+O,Negative,RBC,2021-06-01,85,84,84,30,55
+O,Negative,RBC,2021-07-01,79,79,79,28,51
+O,Negative,RBC,2021-08-01,66,66,66,23,43
+O,Negative,RBC,2021-09-01,59,59,59,21,38
+O,Negative,RBC,2021-10-01,57,57,57,22,35
+O,Negative,RBC,2021-11-01,57,57,57,17,40
+O,Negative,RBC,2021-12-01,62,62,62,24,38
+O,Negative,RBC,2022-01-01,67,67,67,26,41
+O,Negative,RBC,2022-02-01,59,59,59,20,39
+O,Negative,RBC,2022-03-01,71,71,71,27,44
+O,Negative,RBC,2022-04-01,72,72,72,26,46
+O,Negative,RBC,2022-05-01,86,86,86,28,58
+O,Negative,RBC,2022-06-01,89,89,89,29,60
+O,Negative,RBC,2022-07-01,84,83,83,27,57
+O,Negative,RBC,2022-08-01,70,70,70,24,46
+O,Negative,RBC,2022-09-01,63,63,63,25,38
+O,Negative,RBC,2022-10-01,62,62,62,22,40
+O,Negative,RBC,2022-11-01,59,59,59,20,39
+O,Negative,RBC,2022-12-01,64,64,64,19,45
+O,Negative,RBC,2023-01-01,67,67,67,22,45
+O,Negative,RBC,2023-02-01,74,72,72,23,51
+O,Negative,RBC,2023-03-01,87,86,86,27,60
+O,Negative,RBC,2023-04-01,88,87,87,30,58
+O,Negative,RBC,2023-05-01,92,91,91,31,61
+O,Negative,RBC,2023-06-01,88,88,88,28,60
+O,Negative,RBC,2023-07-01,84,83,83,30,54
+O,Negative,RBC,2023-08-01,71,71,71,25,46
+O,Negative,RBC,2023-09-01,63,63,63,20,43
+O,Negative,RBC,2023-10-01,63,63,63,25,38
+O,Negative,RBC,2023-11-01,59,59,59,20,39
+O,Negative,RBC,2023-12-01,60,60,60,20,40
+O,Negative,RBC,2024-01-01,63,63,63,26,37
+O,Negative,RBC,2024-02-01,78,76,76,28,50
+O,Negative,RBC,2024-03-01,84,83,83,27,57
+O,Negative,RBC,2024-04-01,90,89,89,28,62
+O,Negative,RBC,2024-05-01,93,92,92,31,62
+O,Negative,RBC,2024-06-01,90,89,89,28,62
+O,Negative,RBC,2024-07-01,91,90,90,30,61
+O,Negative,RBC,2024-08-01,81,81,81,26,55
+O,Negative,RBC,2024-09-01,70,70,69,28,42
+O,Negative,RBC,2024-10-01,67,67,67,26,41
+O,Negative,RBC,2024-11-01,69,69,69,22,47
+O,Negative,RBC,2024-12-01,77,77,77,27,50
+O,Negative,Whole Blood,2021-01-01,39,39,39,6,33
+O,Negative,Whole Blood,2021-02-01,40,40,40,11,29
+O,Negative,Whole Blood,2021-03-01,58,58,58,22,36
+O,Negative,Whole Blood,2021-04-01,59,59,59,23,36
+O,Negative,Whole Blood,2021-05-01,62,62,62,21,41
+O,Negative,Whole Blood,2021-06-01,60,60,60,24,36
+O,Negative,Whole Blood,2021-07-01,62,62,62,26,36
+O,Negative,Whole Blood,2021-08-01,59,59,59,19,40
+O,Negative,Whole Blood,2021-09-01,56,56,56,16,40
+O,Negative,Whole Blood,2021-10-01,52,52,52,16,36
+O,Negative,Whole Blood,2021-11-01,53,53,53,17,36
+O,Negative,Whole Blood,2021-12-01,56,56,56,17,39
+O,Negative,Whole Blood,2022-01-01,60,60,60,22,38
+O,Negative,Whole Blood,2022-02-01,56,56,56,24,32
+O,Negative,Whole Blood,2022-03-01,62,62,62,23,39
+O,Negative,Whole Blood,2022-04-01,62,62,62,27,35
+O,Negative,Whole Blood,2022-05-01,68,68,68,21,47
+O,Negative,Whole Blood,2022-06-01,62,62,62,21,41
+O,Negative,Whole Blood,2022-07-01,64,64,64,24,40
+O,Negative,Whole Blood,2022-08-01,62,62,62,24,38
+O,Negative,Whole Blood,2022-09-01,51,51,51,13,38
+O,Negative,Whole Blood,2022-10-01,51,51,51,20,31
+O,Negative,Whole Blood,2022-11-01,35,35,35,4,31
+O,Negative,Whole Blood,2022-12-01,43,43,43,8,35
+O,Negative,Whole Blood,2023-01-01,52,52,52,16,36
+O,Negative,Whole Blood,2023-02-01,53,53,53,22,31
+O,Negative,Whole Blood,2023-03-01,62,62,62,22,40
+O,Negative,Whole Blood,2023-04-01,59,59,59,21,38
+O,Negative,Whole Blood,2023-05-01,62,62,62,22,40
+O,Negative,Whole Blood,2023-06-01,60,60,60,21,39
+O,Negative,Whole Blood,2023-07-01,65,65,65,27,38
+O,Negative,Whole Blood,2023-08-01,62,62,62,26,36
+O,Negative,Whole Blood,2023-09-01,59,59,59,19,40
+O,Negative,Whole Blood,2023-10-01,55,55,55,16,39
+O,Negative,Whole Blood,2023-11-01,47,47,47,11,36
+O,Negative,Whole Blood,2023-12-01,50,50,50,12,38
+O,Negative,Whole Blood,2024-01-01,58,58,58,16,42
+O,Negative,Whole Blood,2024-02-01,59,59,59,23,36
+O,Negative,Whole Blood,2024-03-01,62,62,62,24,38
+O,Negative,Whole Blood,2024-04-01,60,60,60,24,36
+O,Negative,Whole Blood,2024-05-01,62,62,62,24,38
+O,Negative,Whole Blood,2024-06-01,58,58,58,23,35
+O,Negative,Whole Blood,2024-07-01,61,61,61,20,41
+O,Negative,Whole Blood,2024-08-01,61,61,61,22,39
+O,Negative,Whole Blood,2024-09-01,54,54,54,17,37
+O,Negative,Whole Blood,2024-10-01,54,54,54,17,37
+O,Negative,Whole Blood,2024-11-01,48,48,48,12,36
+O,Negative,Whole Blood,2024-12-01,48,48,48,16,32
+O,Positive,Plasma,2021-01-01,353,329,308,99,254
+O,Positive,Plasma,2021-02-01,363,339,317,110,253
+O,Positive,Plasma,2021-03-01,411,388,367,126,285
+O,Positive,Plasma,2021-04-01,437,409,387,125,312
+O,Positive,Plasma,2021-05-01,469,428,407,142,327
+O,Positive,Plasma,2021-06-01,467,436,417,131,336
+O,Positive,Plasma,2021-07-01,491,454,427,147,344
+O,Positive,Plasma,2021-08-01,431,401,377,123,308
+O,Positive,Plasma,2021-09-01,375,349,329,118,257
+O,Positive,Plasma,2021-10-01,350,324,308,112,238
+O,Positive,Plasma,2021-11-01,326,303,288,86,240
+O,Positive,Plasma,2021-12-01,344,313,304,106,238
+O,Positive,Plasma,2022-01-01,385,353,338,121,264
+O,Positive,Plasma,2022-02-01,357,326,311,108,249
+O,Positive,Plasma,2022-03-01,451,414,394,135,316
+O,Positive,Plasma,2022-04-01,463,431,406,139,324
+O,Positive,Plasma,2022-05-01,504,469,440,155,349
+O,Positive,Plasma,2022-06-01,498,460,437,134,364
+O,Positive,Plasma,2022-07-01,492,456,432,141,351
+O,Positive,Plasma,2022-08-01,435,405,382,127,308
+O,Positive,Plasma,2022-09-01,414,393,373,128,286
+O,Positive,Plasma,2022-10-01,375,342,321,122,253
+O,Positive,Plasma,2022-11-01,370,339,321,113,257
+O,Positive,Plasma,2022-12-01,349,327,312,104,245
+O,Positive,Plasma,2023-01-01,401,370,355,128,273
+O,Positive,Plasma,2023-02-01,368,343,323,112,256
+O,Positive,Plasma,2023-03-01,451,427,401,131,320
+O,Positive,Plasma,2023-04-01,470,449,427,148,322
+O,Positive,Plasma,2023-05-01,521,481,464,154,367
+O,Positive,Plasma,2023-06-01,504,471,449,151,353
+O,Positive,Plasma,2023-07-01,483,450,425,138,345
+O,Positive,Plasma,2023-08-01,482,449,428,151,331
+O,Positive,Plasma,2023-09-01,440,411,385,128,312
+O,Positive,Plasma,2023-10-01,424,389,372,132,292
+O,Positive,Plasma,2023-11-01,416,389,369,125,291
+O,Positive,Plasma,2023-12-01,414,378,359,124,290
+O,Positive,Plasma,2024-01-01,403,369,355,124,279
+O,Positive,Plasma,2024-02-01,409,375,356,123,286
+O,Positive,Plasma,2024-03-01,447,414,391,144,303
+O,Positive,Plasma,2024-04-01,454,424,406,132,322
+O,Positive,Plasma,2024-05-01,522,479,459,167,355
+O,Positive,Plasma,2024-06-01,487,447,419,140,347
+O,Positive,Plasma,2024-07-01,488,453,423,150,338
+O,Positive,Plasma,2024-08-01,497,462,440,146,351
+O,Positive,Plasma,2024-09-01,434,398,377,131,303
+O,Positive,Plasma,2024-10-01,405,381,362,129,276
+O,Positive,Plasma,2024-11-01,372,348,334,113,259
+O,Positive,Plasma,2024-12-01,425,395,374,129,296
+O,Positive,Platelets,2021-01-01,307,283,267,96,211
+O,Positive,Platelets,2021-02-01,327,302,292,92,235
+O,Positive,Platelets,2021-03-01,392,363,343,121,271
+O,Positive,Platelets,2021-04-01,412,381,367,117,295
+O,Positive,Platelets,2021-05-01,495,457,440,153,342
+O,Positive,Platelets,2021-06-01,465,428,407,134,331
+O,Positive,Platelets,2021-07-01,445,417,401,142,303
+O,Positive,Platelets,2021-08-01,402,372,351,132,270
+O,Positive,Platelets,2021-09-01,340,313,299,102,238
+O,Positive,Platelets,2021-10-01,281,265,255,82,199
+O,Positive,Platelets,2021-11-01,261,241,229,84,177
+O,Positive,Platelets,2021-12-01,235,217,203,70,165
+O,Positive,Platelets,2022-01-01,279,263,251,89,190
+O,Positive,Platelets,2022-02-01,282,260,249,81,201
+O,Positive,Platelets,2022-03-01,374,355,344,107,267
+O,Positive,Platelets,2022-04-01,409,382,356,116,293
+O,Positive,Platelets,2022-05-01,420,393,378,116,304
+O,Positive,Platelets,2022-06-01,406,377,360,126,280
+O,Positive,Platelets,2022-07-01,383,359,343,106,277
+O,Positive,Platelets,2022-08-01,352,326,311,108,244
+O,Positive,Platelets,2022-09-01,319,298,283,91,228
+O,Positive,Platelets,2022-10-01,336,311,295,99,237
+O,Positive,Platelets,2022-11-01,332,305,288,99,233
+O,Positive,Platelets,2022-12-01,347,326,310,102,245
+O,Positive,Platelets,2023-01-01,397,368,349,120,277
+O,Positive,Platelets,2023-02-01,401,373,354,119,282
+O,Positive,Platelets,2023-03-01,486,447,427,148,338
+O,Positive,Platelets,2023-04-01,492,458,438,149,343
+O,Positive,Platelets,2023-05-01,549,503,470,156,393
+O,Positive,Platelets,2023-06-01,531,495,469,154,377
+O,Positive,Platelets,2023-07-01,520,495,471,145,375
+O,Positive,Platelets,2023-08-01,472,438,411,135,337
+O,Positive,Platelets,2023-09-01,422,392,381,131,291
+O,Positive,Platelets,2023-10-01,423,392,375,121,302
+O,Positive,Platelets,2023-11-01,388,356,334,110,278
+O,Positive,Platelets,2023-12-01,437,409,386,137,300
+O,Positive,Platelets,2024-01-01,462,431,417,151,311
+O,Positive,Platelets,2024-02-01,468,432,413,143,325
+O,Positive,Platelets,2024-03-01,569,534,504,172,397
+O,Positive,Platelets,2024-04-01,605,565,532,181,424
+O,Positive,Platelets,2024-05-01,614,565,535,192,422
+O,Positive,Platelets,2024-06-01,598,557,530,174,424
+O,Positive,Platelets,2024-07-01,599,549,521,182,417
+O,Positive,Platelets,2024-08-01,580,545,521,183,397
+O,Positive,Platelets,2024-09-01,519,485,458,153,366
+O,Positive,Platelets,2024-10-01,515,475,449,158,357
+O,Positive,Platelets,2024-11-01,464,436,415,141,323
+O,Positive,Platelets,2024-12-01,509,467,446,150,359
+O,Positive,RBC,2021-01-01,1014,957,916,299,715
+O,Positive,RBC,2021-02-01,976,913,860,299,677
+O,Positive,RBC,2021-03-01,1194,1104,1052,335,859
+O,Positive,RBC,2021-04-01,1199,1089,1020,369,830
+O,Positive,RBC,2021-05-01,1306,1210,1147,394,912
+O,Positive,RBC,2021-06-01,1185,1086,1036,357,828
+O,Positive,RBC,2021-07-01,1214,1131,1066,359,855
+O,Positive,RBC,2021-08-01,1126,1050,995,342,784
+O,Positive,RBC,2021-09-01,1005,919,864,307,698
+O,Positive,RBC,2021-10-01,1061,984,937,330,731
+O,Positive,RBC,2021-11-01,949,888,860,284,665
+O,Positive,RBC,2021-12-01,947,884,842,292,655
+O,Positive,RBC,2022-01-01,921,864,820,288,633
+O,Positive,RBC,2022-02-01,945,868,819,281,664
+O,Positive,RBC,2022-03-01,1148,1049,1001,334,814
+O,Positive,RBC,2022-04-01,1159,1085,1026,345,814
+O,Positive,RBC,2022-05-01,1254,1148,1092,359,895
+O,Positive,RBC,2022-06-01,1246,1149,1074,416,830
+O,Positive,RBC,2022-07-01,1334,1221,1166,403,931
+O,Positive,RBC,2022-08-01,1178,1089,1028,349,829
+O,Positive,RBC,2022-09-01,1105,1035,987,322,783
+O,Positive,RBC,2022-10-01,1012,932,872,316,696
+O,Positive,RBC,2022-11-01,913,851,809,275,638
+O,Positive,RBC,2022-12-01,915,845,808,267,648
+O,Positive,RBC,2023-01-01,1008,940,879,328,680
+O,Positive,RBC,2023-02-01,953,880,836,293,660
+O,Positive,RBC,2023-03-01,1159,1080,1030,336,823
+O,Positive,RBC,2023-04-01,1209,1126,1072,379,830
+O,Positive,RBC,2023-05-01,1303,1208,1131,393,910
+O,Positive,RBC,2023-06-01,1323,1227,1160,414,909
+O,Positive,RBC,2023-07-01,1390,1292,1213,419,971
+O,Positive,RBC,2023-08-01,1343,1242,1186,408,935
+O,Positive,RBC,2023-09-01,1171,1083,1021,346,825
+O,Positive,RBC,2023-10-01,1156,1084,1031,353,803
+O,Positive,RBC,2023-11-01,1000,923,874,288,712
+O,Positive,RBC,2023-12-01,1024,951,899,299,725
+O,Positive,RBC,2024-01-01,1062,988,943,293,769
+O,Positive,RBC,2024-02-01,1100,1028,969,333,767
+O,Positive,RBC,2024-03-01,1275,1196,1139,394,881
+O,Positive,RBC,2024-04-01,1351,1253,1188,410,941
+O,Positive,RBC,2024-05-01,1348,1247,1185,391,957
+O,Positive,RBC,2024-06-01,1225,1141,1084,341,884
+O,Positive,RBC,2024-07-01,1268,1180,1114,405,863
+O,Positive,RBC,2024-08-01,1306,1216,1150,375,931
+O,Positive,RBC,2024-09-01,1244,1155,1093,354,890
+O,Positive,RBC,2024-10-01,1204,1110,1056,362,842
+O,Positive,RBC,2024-11-01,1121,1051,987,348,773
+O,Positive,RBC,2024-12-01,1110,1035,973,353,757
+O,Positive,Whole Blood,2021-01-01,502,467,438,170,332
+O,Positive,Whole Blood,2021-02-01,515,475,443,153,362
+O,Positive,Whole Blood,2021-03-01,601,560,528,198,403
+O,Positive,Whole Blood,2021-04-01,668,627,603,206,462
+O,Positive,Whole Blood,2021-05-01,756,700,662,229,527
+O,Positive,Whole Blood,2021-06-01,727,682,649,229,498
+O,Positive,Whole Blood,2021-07-01,711,663,627,216,495
+O,Positive,Whole Blood,2021-08-01,734,682,647,204,530
+O,Positive,Whole Blood,2021-09-01,618,574,547,184,434
+O,Positive,Whole Blood,2021-10-01,637,588,557,197,440
+O,Positive,Whole Blood,2021-11-01,577,533,507,148,429
+O,Positive,Whole Blood,2021-12-01,605,557,532,181,424
+O,Positive,Whole Blood,2022-01-01,650,614,591,204,446
+O,Positive,Whole Blood,2022-02-01,712,659,625,230,482
+O,Positive,Whole Blood,2022-03-01,862,810,762,256,606
+O,Positive,Whole Blood,2022-04-01,923,867,815,283,640
+O,Positive,Whole Blood,2022-05-01,1013,940,886,302,711
+O,Positive,Whole Blood,2022-06-01,1005,940,905,304,701
+O,Positive,Whole Blood,2022-07-01,996,923,871,307,689
+O,Positive,Whole Blood,2022-08-01,970,910,858,282,688
+O,Positive,Whole Blood,2022-09-01,849,788,741,270,579
+O,Positive,Whole Blood,2022-10-01,812,746,702,258,554
+O,Positive,Whole Blood,2022-11-01,785,732,689,239,546
+O,Positive,Whole Blood,2022-12-01,861,807,763,267,594
+O,Positive,Whole Blood,2023-01-01,905,840,798,286,619
+O,Positive,Whole Blood,2023-02-01,882,814,768,255,627
+O,Positive,Whole Blood,2023-03-01,1081,1014,958,334,747
+O,Positive,Whole Blood,2023-04-01,1113,1034,975,342,771
+O,Positive,Whole Blood,2023-05-01,1226,1140,1076,349,877
+O,Positive,Whole Blood,2023-06-01,1208,1127,1050,356,852
+O,Positive,Whole Blood,2023-07-01,1178,1100,1031,366,812
+O,Positive,Whole Blood,2023-08-01,1081,996,954,328,753
+O,Positive,Whole Blood,2023-09-01,945,874,822,252,693
+O,Positive,Whole Blood,2023-10-01,816,762,724,242,574
+O,Positive,Whole Blood,2023-11-01,758,700,661,232,526
+O,Positive,Whole Blood,2023-12-01,810,747,706,237,573
+O,Positive,Whole Blood,2024-01-01,847,790,757,259,588
+O,Positive,Whole Blood,2024-02-01,860,796,761,252,608
+O,Positive,Whole Blood,2024-03-01,952,879,831,272,680
+O,Positive,Whole Blood,2024-04-01,1011,949,893,312,699
+O,Positive,Whole Blood,2024-05-01,1070,982,937,353,717
+O,Positive,Whole Blood,2024-06-01,1060,978,929,311,749
+O,Positive,Whole Blood,2024-07-01,1062,1006,949,317,745
+O,Positive,Whole Blood,2024-08-01,1015,961,909,292,723
+O,Positive,Whole Blood,2024-09-01,894,832,788,271,623
+O,Positive,Whole Blood,2024-10-01,833,769,736,251,582
+O,Positive,Whole Blood,2024-11-01,807,756,721,245,562
+O,Positive,Whole Blood,2024-12-01,866,807,762,266,600

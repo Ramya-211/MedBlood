@@ -1,0 +1,21 @@
+medicine_id,medicine_name,trend_slope,trend_direction,growth_rate_7d,growth_rate_30d
+MED001,Paracetamol 500mg,-0.0031,Decreasing,0.0138,0.03
+MED002,Ibuprofen 400mg,0.0134,Increasing,0.0584,0.1763
+MED003,Amoxicillin 500mg,-0.0005,Stable,0.0353,0.084
+MED004,Azithromycin 250mg,0.0106,Increasing,0.02,0.0502
+MED005,Metformin 500mg,-0.0128,Decreasing,0.0144,0.0286
+MED006,Insulin Glargine,-0.0199,Decreasing,0.0151,0.0216
+MED007,Amlodipine 5mg,0.0192,Increasing,0.0181,0.047
+MED008,Losartan 50mg,-0.0111,Decreasing,0.0312,0.0781
+MED009,Omeprazole 20mg,-0.0016,Decreasing,0.0245,0.0431
+MED010,Ranitidine 150mg,0.0247,Increasing,0.021,0.0685
+MED011,Cetirizine 10mg,0.0033,Increasing,0.015,0.0337
+MED012,Levocetirizine 5mg,0.0023,Increasing,0.0153,0.0338
+MED013,Vitamin D3 60000IU,0.0065,Increasing,0.0205,0.0477
+MED014,Vitamin B-Complex,-0.01,Decreasing,0.0295,0.054
+MED015,Salbutamol Inhaler,0.0135,Increasing,0.0359,0.1023
+MED016,Montelukast 10mg,0.0239,Increasing,0.0281,0.0782
+MED017,Atorvastatin 10mg,0.0022,Increasing,0.013,0.0305
+MED018,Clopidogrel 75mg,-0.0064,Decreasing,0.032,0.0617
+MED019,Betamethasone Cream,0.0033,Increasing,0.0197,0.0421
+MED020,Clotrimazole Cream,-0.0042,Decreasing,0.0347,0.071

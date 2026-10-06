@@ -1,0 +1,21 @@
+medicine_id,medicine_name,composition,manufacturer,dosage_form,pack_size,category,provenance
+MED001,Paracetamol 500mg,Paracetamol,Generic Pharma A,Tablet,10x10,Analgesic,SYNTHETIC_PLACEHOLDER
+MED002,Ibuprofen 400mg,Ibuprofen,Generic Pharma B,Tablet,10x10,Analgesic,SYNTHETIC_PLACEHOLDER
+MED003,Amoxicillin 500mg,Amoxicillin,Generic Pharma A,Capsule,10x10,Antibiotic,SYNTHETIC_PLACEHOLDER
+MED004,Azithromycin 250mg,Azithromycin,Generic Pharma C,Tablet,6x5,Antibiotic,SYNTHETIC_PLACEHOLDER
+MED005,Metformin 500mg,Metformin Hydrochloride,Generic Pharma B,Tablet,15x10,Antidiabetic,SYNTHETIC_PLACEHOLDER
+MED006,Insulin Glargine,Insulin Glargine,Generic Pharma D,Injection,1x10ml,Antidiabetic,SYNTHETIC_PLACEHOLDER
+MED007,Amlodipine 5mg,Amlodipine Besylate,Generic Pharma A,Tablet,10x10,Antihypertensive,SYNTHETIC_PLACEHOLDER
+MED008,Losartan 50mg,Losartan Potassium,Generic Pharma C,Tablet,10x10,Antihypertensive,SYNTHETIC_PLACEHOLDER
+MED009,Omeprazole 20mg,Omeprazole,Generic Pharma B,Capsule,10x10,Antacid,SYNTHETIC_PLACEHOLDER
+MED010,Ranitidine 150mg,Ranitidine,Generic Pharma A,Tablet,10x10,Antacid,SYNTHETIC_PLACEHOLDER
+MED011,Cetirizine 10mg,Cetirizine Hydrochloride,Generic Pharma C,Tablet,10x10,Antihistamine,SYNTHETIC_PLACEHOLDER
+MED012,Levocetirizine 5mg,Levocetirizine,Generic Pharma D,Tablet,10x10,Antihistamine,SYNTHETIC_PLACEHOLDER
+MED013,Vitamin D3 60000IU,Cholecalciferol,Generic Pharma B,Capsule,4x1,Vitamin/Supplement,SYNTHETIC_PLACEHOLDER
+MED014,Vitamin B-Complex,B-Complex + Vitamin C,Generic Pharma A,Tablet,10x10,Vitamin/Supplement,SYNTHETIC_PLACEHOLDER
+MED015,Salbutamol Inhaler,Salbutamol,Generic Pharma D,Inhaler,1x200MD,Respiratory,SYNTHETIC_PLACEHOLDER
+MED016,Montelukast 10mg,Montelukast Sodium,Generic Pharma C,Tablet,10x10,Respiratory,SYNTHETIC_PLACEHOLDER
+MED017,Atorvastatin 10mg,Atorvastatin Calcium,Generic Pharma A,Tablet,10x10,Cardiac,SYNTHETIC_PLACEHOLDER
+MED018,Clopidogrel 75mg,Clopidogrel Bisulfate,Generic Pharma B,Tablet,10x10,Cardiac,SYNTHETIC_PLACEHOLDER
+MED019,Betamethasone Cream,Betamethasone,Generic Pharma D,Ointment,1x20g,Dermatological,SYNTHETIC_PLACEHOLDER
+MED020,Clotrimazole Cream,Clotrimazole,Generic Pharma C,Ointment,1x15g,Dermatological,SYNTHETIC_PLACEHOLDER

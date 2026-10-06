@@ -1,0 +1,38 @@
+recommendation_id,date,blood_group,rh_type,blood_component,current_stock,predicted_demand,days_of_cover,recommendation
+1,2024-12-31,A,Negative,Plasma,9,,9.31,No Action Needed - Stock and Demand Within Normal Range
+2,2024-12-31,A,Negative,Platelets,5,,5.17,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+3,2024-12-31,A,Negative,RBC,13,,13.0,No Action Needed - Stock and Demand Within Normal Range
+4,2024-12-31,A,Negative,Whole Blood,11,,11.0,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+5,2024-12-31,A,Positive,Plasma,60,12.14,5.64,No Action Needed - Stock and Demand Within Normal Range
+6,2024-12-31,A,Positive,Platelets,57,13.28,4.93,Low Stock Alert - Consider Replenishment
+7,2024-12-31,A,Positive,Platelets,57,13.28,4.93,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+8,2024-12-31,A,Positive,RBC,179,16.55,12.49,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+9,2024-12-31,A,Positive,Whole Blood,166,18.01,10.23,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+10,2024-12-31,AB,Negative,Plasma,7,2.07,4.67,Low Stock Alert - Consider Replenishment
+11,2024-12-31,AB,Negative,Platelets,5,,5.36,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+12,2024-12-31,AB,Negative,RBC,9,,9.0,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+13,2024-12-31,AB,Negative,Whole Blood,8,,8.0,No Action Needed - Stock and Demand Within Normal Range
+14,2024-12-31,AB,Positive,Plasma,21,2.84,8.75,Prepare for Increased Requirement (Rising Demand Trend)
+15,2024-12-31,AB,Positive,Platelets,12,3.46,4.14,Low Stock Alert - Consider Replenishment
+16,2024-12-31,AB,Positive,Platelets,12,3.46,4.14,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+17,2024-12-31,AB,Positive,RBC,59,6.36,10.6,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+18,2024-12-31,AB,Positive,Whole Blood,38,5.55,7.92,Prepare for Increased Requirement (Rising Demand Trend)
+19,2024-12-31,AB,Positive,Whole Blood,38,5.55,7.92,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+20,2024-12-31,B,Negative,Plasma,13,,13.0,No Action Needed - Stock and Demand Within Normal Range
+21,2024-12-31,B,Negative,Platelets,9,1.4,8.71,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+22,2024-12-31,B,Negative,RBC,24,2.34,12.86,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+23,2024-12-31,B,Negative,Whole Blood,6,,6.0,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+24,2024-12-31,B,Positive,Plasma,88,13.36,7.21,No Action Needed - Stock and Demand Within Normal Range
+25,2024-12-31,B,Positive,Platelets,78,15.33,5.79,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+26,2024-12-31,B,Positive,RBC,268,44.26,7.06,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+27,2024-12-31,B,Positive,Whole Blood,221,23.39,10.82,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+28,2024-12-31,O,Negative,Plasma,13,,12.58,No Action Needed - Stock and Demand Within Normal Range
+29,2024-12-31,O,Negative,Platelets,8,,8.0,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+30,2024-12-31,O,Negative,RBC,22,2.88,8.8,Prepare for Increased Requirement (Rising Demand Trend)
+31,2024-12-31,O,Negative,Whole Blood,18,2.01,11.74,Prepare for Increased Requirement (Rising Demand Trend)
+32,2024-12-31,O,Negative,Whole Blood,18,2.01,11.74,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+33,2024-12-31,O,Positive,Plasma,93,14.37,7.23,No Action Needed - Stock and Demand Within Normal Range
+34,2024-12-31,O,Positive,Platelets,105,17.04,6.94,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+35,2024-12-31,O,Positive,RBC,290,38.44,8.63,Prepare for Increased Requirement (Rising Demand Trend)
+36,2024-12-31,O,Positive,RBC,290,38.44,8.63,Expiry Priority - Prioritize Issuance of Near-Expiry Units
+37,2024-12-31,O,Positive,Whole Blood,136,28.85,5.2,Expiry Priority - Prioritize Issuance of Near-Expiry Units

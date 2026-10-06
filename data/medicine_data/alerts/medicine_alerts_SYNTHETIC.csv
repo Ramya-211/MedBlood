@@ -1,0 +1,23 @@
+alert_id,date,medicine_id,medicine_name,alert_type,severity,message
+1,2024-12-31,MED001,Paracetamol 500mg,Expired,Critical,Expired - Paracetamol 500mg: One or more batches are Expired.
+2,2024-12-31,MED002,Ibuprofen 400mg,Expired,Critical,Expired - Ibuprofen 400mg: One or more batches are Expired.
+3,2024-12-31,MED003,Amoxicillin 500mg,Expired,Critical,Expired - Amoxicillin 500mg: One or more batches are Expired.
+4,2024-12-31,MED004,Azithromycin 250mg,Expired,Critical,Expired - Azithromycin 250mg: One or more batches are Expired.
+5,2024-12-31,MED005,Metformin 500mg,Overstock,Info,Overstock - Metformin 500mg: Current stock (2572) exceeds the overstock threshold (days of cover).
+6,2024-12-31,MED005,Metformin 500mg,Expired,Critical,Expired - Metformin 500mg: One or more batches are Expired.
+7,2024-12-31,MED006,Insulin Glargine,Expired,Critical,Expired - Insulin Glargine: One or more batches are Expired.
+8,2024-12-31,MED007,Amlodipine 5mg,Expired,Critical,Expired - Amlodipine 5mg: One or more batches are Expired.
+9,2024-12-31,MED008,Losartan 50mg,Expired,Critical,Expired - Losartan 50mg: One or more batches are Expired.
+10,2024-12-31,MED009,Omeprazole 20mg,Expired,Critical,Expired - Omeprazole 20mg: One or more batches are Expired.
+11,2024-12-31,MED010,Ranitidine 150mg,Expired,Critical,Expired - Ranitidine 150mg: One or more batches are Expired.
+12,2024-12-31,MED011,Cetirizine 10mg,Expired,Critical,Expired - Cetirizine 10mg: One or more batches are Expired.
+13,2024-12-31,MED012,Levocetirizine 5mg,Expired,Critical,Expired - Levocetirizine 5mg: One or more batches are Expired.
+14,2024-12-31,MED013,Vitamin D3 60000IU,Expired,Critical,Expired - Vitamin D3 60000IU: One or more batches are Expired.
+15,2024-12-31,MED014,Vitamin B-Complex,Overstock,Info,Overstock - Vitamin B-Complex: Current stock (822) exceeds the overstock threshold (days of cover).
+16,2024-12-31,MED014,Vitamin B-Complex,Expired,Critical,Expired - Vitamin B-Complex: One or more batches are Expired.
+17,2024-12-31,MED015,Salbutamol Inhaler,Expired,Critical,Expired - Salbutamol Inhaler: One or more batches are Expired.
+18,2024-12-31,MED016,Montelukast 10mg,Expired,Critical,Expired - Montelukast 10mg: One or more batches are Expired.
+19,2024-12-31,MED017,Atorvastatin 10mg,Expired,Critical,Expired - Atorvastatin 10mg: One or more batches are Expired.
+20,2024-12-31,MED018,Clopidogrel 75mg,Expired,Critical,Expired - Clopidogrel 75mg: One or more batches are Expired.
+21,2024-12-31,MED019,Betamethasone Cream,Expired,Critical,Expired - Betamethasone Cream: One or more batches are Expired.
+22,2024-12-31,MED020,Clotrimazole Cream,Expired,Critical,Expired - Clotrimazole Cream: One or more batches are Expired.

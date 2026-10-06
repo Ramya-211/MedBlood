@@ -1,0 +1,31 @@
+recommendation_id,date,medicine_id,medicine_name,recommendation_type,severity,reason,recommended_action
+1,2024-12-31,MED001,Paracetamol 500mg,Demand Decreasing,Info,Demand trend is Decreasing based on full-history linear fit.,Monitor for Overstock Risk
+2,2024-12-31,MED001,Paracetamol 500mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+3,2024-12-31,MED002,Ibuprofen 400mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+4,2024-12-31,MED003,Amoxicillin 500mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+5,2024-12-31,MED004,Azithromycin 250mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+6,2024-12-31,MED005,Metformin 500mg,Excess Stock,Info,Current stock (2572) exceeds the overstock threshold (days of cover).,Review Excess Inventory
+7,2024-12-31,MED005,Metformin 500mg,Demand Decreasing,Info,Demand trend is Decreasing based on full-history linear fit.,Monitor for Overstock Risk
+8,2024-12-31,MED005,Metformin 500mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+9,2024-12-31,MED006,Insulin Glargine,Demand Decreasing,Info,Demand trend is Decreasing based on full-history linear fit.,Monitor for Overstock Risk
+10,2024-12-31,MED006,Insulin Glargine,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+11,2024-12-31,MED007,Amlodipine 5mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+12,2024-12-31,MED008,Losartan 50mg,Demand Decreasing,Info,Demand trend is Decreasing based on full-history linear fit.,Monitor for Overstock Risk
+13,2024-12-31,MED008,Losartan 50mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+14,2024-12-31,MED009,Omeprazole 20mg,Demand Decreasing,Info,Demand trend is Decreasing based on full-history linear fit.,Monitor for Overstock Risk
+15,2024-12-31,MED009,Omeprazole 20mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+16,2024-12-31,MED010,Ranitidine 150mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+17,2024-12-31,MED011,Cetirizine 10mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+18,2024-12-31,MED012,Levocetirizine 5mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+19,2024-12-31,MED013,Vitamin D3 60000IU,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+20,2024-12-31,MED014,Vitamin B-Complex,Excess Stock,Info,Current stock (822) exceeds the overstock threshold (days of cover).,Review Excess Inventory
+21,2024-12-31,MED014,Vitamin B-Complex,Demand Decreasing,Info,Demand trend is Decreasing based on full-history linear fit.,Monitor for Overstock Risk
+22,2024-12-31,MED014,Vitamin B-Complex,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+23,2024-12-31,MED015,Salbutamol Inhaler,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+24,2024-12-31,MED016,Montelukast 10mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+25,2024-12-31,MED017,Atorvastatin 10mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+26,2024-12-31,MED018,Clopidogrel 75mg,Demand Decreasing,Info,Demand trend is Decreasing based on full-history linear fit.,Monitor for Overstock Risk
+27,2024-12-31,MED018,Clopidogrel 75mg,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+28,2024-12-31,MED019,Betamethasone Cream,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)
+29,2024-12-31,MED020,Clotrimazole Cream,Demand Decreasing,Info,Demand trend is Decreasing based on full-history linear fit.,Monitor for Overstock Risk
+30,2024-12-31,MED020,Clotrimazole Cream,Expiry Priority,Critical,One or more batches are Expired.,Prioritize Stock Utilization (FIFO)

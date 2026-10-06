@@ -1,0 +1,21 @@
+medicine_id,medicine_name,category,total_units_dispensed,volume_tier
+MED001,Paracetamol 500mg,Analgesic,85333,Fast Moving
+MED007,Amlodipine 5mg,Antihypertensive,66909,Fast Moving
+MED005,Metformin 500mg,Antidiabetic,65515,Fast Moving
+MED010,Ranitidine 150mg,Antacid,51825,Fast Moving
+MED004,Azithromycin 250mg,Antibiotic,50115,Fast Moving
+MED008,Losartan 50mg,Antihypertensive,47594,Fast Moving
+MED006,Insulin Glargine,Antidiabetic,43991,Medium Moving
+MED016,Montelukast 10mg,Respiratory,37780,Medium Moving
+MED002,Ibuprofen 400mg,Analgesic,36600,Medium Moving
+MED011,Cetirizine 10mg,Antihistamine,34585,Medium Moving
+MED009,Omeprazole 20mg,Antacid,31945,Medium Moving
+MED003,Amoxicillin 500mg,Antibiotic,29350,Medium Moving
+MED014,Vitamin B-Complex,Vitamin/Supplement,26865,Medium Moving
+MED012,Levocetirizine 5mg,Antihistamine,26275,Slow Moving
+MED017,Atorvastatin 10mg,Cardiac,25674,Slow Moving
+MED013,Vitamin D3 60000IU,Vitamin/Supplement,24006,Slow Moving
+MED018,Clopidogrel 75mg,Cardiac,23851,Slow Moving
+MED015,Salbutamol Inhaler,Respiratory,19259,Slow Moving
+MED019,Betamethasone Cream,Dermatological,11747,Slow Moving
+MED020,Clotrimazole Cream,Dermatological,11011,Slow Moving
